@@ -30,5 +30,8 @@ layout: default
   * BCB 720 &#124; Introduction to Statistical Modeling &#124; Instructors: William Valdar, Ethan Lange
 
 ## Work Experience
+* Wayne State University
+  * Biostatistics Research Assistant
+  * Advisor: Jennifer Beebe-Dimmer
 
 [back](./)
