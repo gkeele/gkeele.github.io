@@ -10,10 +10,6 @@ My work focuses on the development of statistical tools for analyses of multipar
 
 [Publications](publications)
 
-# [](#header-1)Header 1
-
-## [](#header-2)Header 2
-
 > This is a blockquote following a header.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
