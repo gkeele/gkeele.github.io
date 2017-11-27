@@ -2,9 +2,11 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am currently finishing up my PhD in [Bioinformatics and Computational Biology](https://bcb.unc.edu/) at [UNC-Chapel Hill](https://www.unc.edu), where I am a member of the [Valdar lab](https://valdarlab.unc.edu) in the [Department of Genetics](https://www.med.unc.edu/genetics). 
 
-[Link to another page](another-page).
+My work focuses on the development of statistical tools for analyses of multiparental populations, such as the Collaborative Cross (CC) and Diversity Outbred (DO) stock in laboratory mice, with particular emphasis on experimental design and genetic association mapping.
+
+[Publications](another-page)
 
 There should be whitespace between paragraphs.
 
