@@ -5,7 +5,9 @@ layout: default
 
 ### Preprints
 
-**Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
+**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Zhou Y, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Wright FA, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *bioRxiv*. [https://doi.org/10.1101/588723](https://www.biorxiv.org/content/10.1101/588723v1) 
+
+**Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
 
 ### Peer-reviewed
 
