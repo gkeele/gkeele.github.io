@@ -5,6 +5,8 @@ layout: default
 
 ### Preprints
 
+**Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
+
 ### Peer-reviewed
 
 **Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. Early access. [https://doi.org/10.25387/g3.7409405](https://www.g3journal.org/content/early/2019/03/26/g3.119.400194)
