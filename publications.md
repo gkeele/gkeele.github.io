@@ -11,7 +11,7 @@ layout: default
 
 ### Peer-reviewed
 
-**Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. Early access. [https://doi.org/10.25387/g3.7409405](https://www.g3journal.org/content/early/2019/03/26/g3.119.400194)
+**Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. 2019 May 1. [https://doi.org/10.25387/g3.7409405](https://www.ncbi.nlm.nih.gov/pubmed/30914424)
 
 Maurizio PL, Ferris MT, **Keele GR**, Miller DR, Shaw GD, Whitmore AC, West A, Morrison CR, Noll KE, Plante KS, Cockrell AS, Threadgill DW, Pardo-Manuel de Villena F, Baric RS, Heise MT, Valdar W. Bayesian diallel analysis reveals *Mx1*-dependent and *Mx1*-independent effects on response to influenza A virus in mice. *G3*. 2017 Nov 29. [doi: 10.1534/g3.117.300438](https://www.ncbi.nlm.nih.gov/pubmed/29187420).
 
