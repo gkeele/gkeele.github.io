@@ -7,15 +7,17 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
 
-### Peer-reviewed
+### Peer-reviewed (first author)
 
 **Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genet*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://www.ncbi.nlm.nih.gov/pubmed/31961859) 
 
 **Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. 2019 May 1. [https://doi.org/10.25387/g3.7409405](https://www.ncbi.nlm.nih.gov/pubmed/30914424)
 
-Maurizio PL, Ferris MT, **Keele GR**, Miller DR, Shaw GD, Whitmore AC, West A, Morrison CR, Noll KE, Plante KS, Cockrell AS, Threadgill DW, Pardo-Manuel de Villena F, Baric RS, Heise MT, Valdar W. Bayesian diallel analysis reveals *Mx1*-dependent and *Mx1*-independent effects on response to influenza A virus in mice. *G3*. 2017 Nov 29. [doi: 10.1534/g3.117.300438](https://www.ncbi.nlm.nih.gov/pubmed/29187420).
-
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [doi: 10.1002/oby.22075](https://www.ncbi.nlm.nih.gov/pubmed/29193816).
+
+### Peer-reviewed (middle author)
+
+Maurizio PL, Ferris MT, **Keele GR**, Miller DR, Shaw GD, Whitmore AC, West A, Morrison CR, Noll KE, Plante KS, Cockrell AS, Threadgill DW, Pardo-Manuel de Villena F, Baric RS, Heise MT, Valdar W. Bayesian diallel analysis reveals *Mx1*-dependent and *Mx1*-independent effects on response to influenza A virus in mice. *G3*. 2017 Nov 29. [doi: 10.1534/g3.117.300438](https://www.ncbi.nlm.nih.gov/pubmed/29187420).
 
 Mosedale M, Kim Y, Brock WJ, Roth SE, Wiltshire T, Eaddy JS, **Keele GR**, Corty RW, Xie Y, Valdar W, Watkins PB. Candidate risk factors and mechanisms for Tolvaptan-induced liver injury are identified using a Collaborative Cross approach. *Toxicological Sciences*. 2017 Apr 1;156(2):438-454. [doi: 10.1093/toxsci/kfw269](https://academic.oup.com/toxsci/article/156/2/438/2938083).
 
