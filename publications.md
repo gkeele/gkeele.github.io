@@ -5,11 +5,11 @@ layout: default
 
 ### Preprints
 
-**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Zhou Y, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Wright FA, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *bioRxiv*. [https://doi.org/10.1101/588723](https://www.biorxiv.org/content/10.1101/588723v1) 
-
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
 
 ### Peer-reviewed
+
+**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genet*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://www.ncbi.nlm.nih.gov/pubmed/31961859) 
 
 **Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. 2019 May 1. [https://doi.org/10.25387/g3.7409405](https://www.ncbi.nlm.nih.gov/pubmed/30914424)
 
