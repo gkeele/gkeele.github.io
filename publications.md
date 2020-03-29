@@ -7,6 +7,8 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
 
+Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, Meriesh H, **Keele GR**, Yumerefendi H, Restrepo D, Zimmerman S, Bear J, Kuhlman B, Davis IJ, Strahl BD. An optogenetic switch for the Set2 methyltransferase provides evidence for rapid transcription-dependent and independent dynamics of H3K36 methylation. *bioRxiv*. [https://doi.org/10.1101/2020.03.28.013706](https://www.biorxiv.org/content/10.1101/2020.03.28.013706v1)
+
 ### Peer-reviewed (first author)
 
 **Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genet*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://www.ncbi.nlm.nih.gov/pubmed/31961859) 
