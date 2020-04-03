@@ -3,6 +3,8 @@ layout: default
 ---
 ## Publications
 
+<sup>\*</sup> denotes co-first authors
+
 ### Preprints
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
