@@ -11,6 +11,8 @@ layout: default
 
 Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Meriesh H, Yumerefendi H, Restrepo D, Zimmerman S, Bear J, Kuhlman B, Davis IJ, Strahl BD. An optogenetic switch for the Set2 methyltransferase provides evidence for rapid transcription-dependent and independent dynamics of H3K36 methylation. *bioRxiv*. [https://doi.org/10.1101/2020.03.28.013706](https://www.biorxiv.org/content/10.1101/2020.03.28.013706v1)
 
+Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart. *bioRxiv*. [https://doi.org/10.1101/2020.08.28.272260](https://www.biorxiv.org/content/10.1101/2020.08.28.272260v1)
+
 ### Peer-reviewed (first author)
 
 **Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genet*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://www.ncbi.nlm.nih.gov/pubmed/31961859) 
