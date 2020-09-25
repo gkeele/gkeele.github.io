@@ -11,19 +11,21 @@ layout: default
 
 Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Meriesh H, Yumerefendi H, Restrepo D, Zimmerman S, Bear J, Kuhlman B, Davis IJ, Strahl BD. An optogenetic switch for the Set2 methyltransferase provides evidence for rapid transcription-dependent and independent dynamics of H3K36 methylation. *bioRxiv*. [https://doi.org/10.1101/2020.03.28.013706](https://www.biorxiv.org/content/10.1101/2020.03.28.013706v1)
 
-**Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2020.09.18.296657](https://www.biorxiv.org/content/10.1101/2020.09.18.296657v1)
+**Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2020.09.18.296657](https://www.biorxiv.org/content/10.1101/2020.09.18.296657v3)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart. *bioRxiv*. [https://doi.org/10.1101/2020.08.28.272260](https://www.biorxiv.org/content/10.1101/2020.08.28.272260v1)
 
 ### Peer-reviewed (first author)
 
-**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genet*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://www.ncbi.nlm.nih.gov/pubmed/31961859) 
+**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genetics*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://www.ncbi.nlm.nih.gov/pubmed/31961859) 
 
 **Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. 2019 May 1. [https://doi.org/10.25387/g3.7409405](https://www.ncbi.nlm.nih.gov/pubmed/30914424)
 
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [doi: 10.1002/oby.22075](https://www.ncbi.nlm.nih.gov/pubmed/29193816).
 
 ### Peer-reviewed (middle author)
+
+Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo EA, Reddy TR, Russell JD, Cushing EM, Schueler KL, Stapleton DS, Rabaglia ME, Keller MP, Gatti DM, **Keele GR**, Pham D, Broman KW, Churchill GA, Attie AD, Coon JJ. A large-scale genome-lipid association map guides lipid identification. *Nature Metabolism*. [doi:  10.1038/s42255-020-00278-3](https://pubmed.ncbi.nlm.nih.gov/32958938)
 
 Skelly DA, Czechanski A, Byers C, Aydin S, Spruce C, Olivier C, Choi K, Gatti DM, Raghupathy N, **Keele GR**, Stanton A, Vincent M, Dion S, Greenstein I, Pankratz M, Porter DK, Martin W, O’Connor C, Qin W, Harrill AH, Choi T, Churchill GA, Munger SC, Baker CL, Reinholdt LG. Mapping the Effects of Genetic Variation on Chromatin State and Gene Expression Reveals Loci That Control Ground State Pluripotency. *Cell Stem Cell*. 2020 September 3. [doi: 10.1016/j.stem.2020.07.005](https://pubmed.ncbi.nlm.nih.gov/32795400)
 
