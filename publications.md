@@ -17,7 +17,7 @@ Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, 
 
 ### Peer-reviewed (first author)
 
-**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genetics*. 2020 January 21. [https://doi.org/10.1371/journal.pgen.1008537](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008537) 
+**Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genetics*. 2020 Jan 21. [https://doi.org/10.1371/journal.pgen.1008537](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008537) 
 
 **Keele GR**<sup>\*</sup>, Crouse WL<sup>\*</sup>, Kelada SNP, Valdar W. Determinants of QTL mapping power in the realized Collaborative Cross. *G3*. 2019 May 1. [https://doi.org/10.25387/g3.7409405](https://www.g3journal.org/content/9/5/1707)
 
@@ -25,11 +25,11 @@ Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, 
 
 ### Peer-reviewed (middle author)
 
-Hsiao K, Noble C, Pitman W, Yadav N, Kumar S, **Keele GR**, Terceros A, Kanke M, Conniff T, Cheleuitte-Nieves C, Tolwani R, Sethupathy P, Rajasethupathy P. A Thalamic Orphan Receptor Drives Variability in Short-Term Memory. *Cell*. 2020 Sept 29. [https://doi.org/10.1016/j.cell.2020.09.011](https://www.cell.com/cell/fulltext/S0092-8674(20)31152-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420311521%3Fshowall%3Dtrue)
+Hsiao K, Noble C, Pitman W, Yadav N, Kumar S, **Keele GR**, Terceros A, Kanke M, Conniff T, Cheleuitte-Nieves C, Tolwani R, Sethupathy P, Rajasethupathy P. A Thalamic Orphan Receptor Drives Variability in Short-Term Memory. *Cell*. 2020 Sep 29. [https://doi.org/10.1016/j.cell.2020.09.011](https://www.cell.com/cell/fulltext/S0092-8674(20)31152-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420311521%3Fshowall%3Dtrue)
 
-Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo EA, Reddy TR, Russell JD, Cushing EM, Schueler KL, Stapleton DS, Rabaglia ME, Keller MP, Gatti DM, **Keele GR**, Pham D, Broman KW, Churchill GA, Attie AD, Coon JJ. A large-scale genome-lipid association map guides lipid identification. *Nature Metabolism*. 2020 Sept 21. [https://doi.org/10.1038/s42255-020-00278-3](https://www.nature.com/articles/s42255-020-00278-3)
+Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo EA, Reddy TR, Russell JD, Cushing EM, Schueler KL, Stapleton DS, Rabaglia ME, Keller MP, Gatti DM, **Keele GR**, Pham D, Broman KW, Churchill GA, Attie AD, Coon JJ. A large-scale genome-lipid association map guides lipid identification. *Nature Metabolism*. 2020 Sep 21. [https://doi.org/10.1038/s42255-020-00278-3](https://www.nature.com/articles/s42255-020-00278-3)
 
-Skelly DA, Czechanski A, Byers C, Aydin S, Spruce C, Olivier C, Choi K, Gatti DM, Raghupathy N, **Keele GR**, Stanton A, Vincent M, Dion S, Greenstein I, Pankratz M, Porter DK, Martin W, O’Connor C, Qin W, Harrill AH, Choi T, Churchill GA, Munger SC, Baker CL, Reinholdt LG. Mapping the Effects of Genetic Variation on Chromatin State and Gene Expression Reveals Loci That Control Ground State Pluripotency. *Cell Stem Cell*. 2020 August 13. [https://doi.org/10.1016/j.stem.2020.07.005](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(20)30343-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193459092030343X%3Fshowall%3Dtrue)
+Skelly DA, Czechanski A, Byers C, Aydin S, Spruce C, Olivier C, Choi K, Gatti DM, Raghupathy N, **Keele GR**, Stanton A, Vincent M, Dion S, Greenstein I, Pankratz M, Porter DK, Martin W, O’Connor C, Qin W, Harrill AH, Choi T, Churchill GA, Munger SC, Baker CL, Reinholdt LG. Mapping the Effects of Genetic Variation on Chromatin State and Gene Expression Reveals Loci That Control Ground State Pluripotency. *Cell Stem Cell*. 2020 Aug 13. [https://doi.org/10.1016/j.stem.2020.07.005](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(20)30343-X?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS193459092030343X%3Fshowall%3Dtrue)
 
 Maurizio PL, Ferris MT, **Keele GR**, Miller DR, Shaw GD, Whitmore AC, West A, Morrison CR, Noll KE, Plante KS, Cockrell AS, Threadgill DW, Pardo-Manuel de Villena F, Baric RS, Heise MT, Valdar W. Bayesian diallel analysis reveals *Mx1*-dependent and *Mx1*-independent effects on response to influenza A virus in mice. *G3*. 2017 Nov 29. [https://doi.org/10.1534/g3.117.300438](https://www.g3journal.org/content/8/2/427)
 
@@ -37,7 +37,7 @@ Mosedale M, Kim Y, Brock WJ, Roth SE, Wiltshire T, Eaddy JS, **Keele GR**, Corty
 
 Lange EM, Ribado JV, Zuhlke KA, Johnson AM, **Keele GR**, Li J, Wang Y, Duan Q, Li G, Gao Z, Li Y, Xu J, Zheng SL, Cooney KA. Assessing the cumulative contribution of new and established common genetic risk factors to early-onset prostate cancer. *Cancer Epidemiol Biomarkers Prev*. 2016 May. [https://doi.org/10.1158/1055-9965.EPI-14-0995](https://cebp.aacrjournals.org/content/25/5/766)
 
-Pathak A, Wenzlaff AS, Hyland PL, Cote ML, **Keele GR**, Land S, Boulton ML, Schwartz AG. Apoptosis-related single nucleotide polymorphisms and the risk of non-small cell lung cancer in women. *J Cancer Ther Res*. 2014 January 31. [https://doi.org/10.7243/2049-7962-3-1](http://www.hoajonline.com/jctr/2049-7962/3/1)
+Pathak A, Wenzlaff AS, Hyland PL, Cote ML, **Keele GR**, Land S, Boulton ML, Schwartz AG. Apoptosis-related single nucleotide polymorphisms and the risk of non-small cell lung cancer in women. *J Cancer Ther Res*. 2014 Jan 31. [https://doi.org/10.7243/2049-7962-3-1](http://www.hoajonline.com/jctr/2049-7962/3/1)
 
 Lange EM, Johnson AM, Wang Y, Zuhlke KA, Lu Y, Ribado JV, **Keele GR**, Li J, Duan Q, Li G, Gao Z, Li Y, Xu J, Isaacs WB, Zheng S, Cooney KA. Genome-wide association scan for variants associated with early-onset prosate cancer. *PLoS One*. 2014 Apr 16. [https://doi.org/10.1371/journal.pone.0093436](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093436)
 
