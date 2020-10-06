@@ -9,13 +9,13 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682v1)
 
-Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Meriesh H, Yumerefendi H, Restrepo D, Zimmerman S, Bear J, Kuhlman B, Davis IJ, Strahl BD. An optogenetic switch for the Set2 methyltransferase provides evidence for rapid transcription-dependent and independent dynamics of H3K36 methylation. *bioRxiv*. [https://doi.org/10.1101/2020.03.28.013706](https://www.biorxiv.org/content/10.1101/2020.03.28.013706v1)
-
 **Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2020.09.18.296657](https://www.biorxiv.org/content/10.1101/2020.09.18.296657v3)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart. *bioRxiv*. [https://doi.org/10.1101/2020.08.28.272260](https://www.biorxiv.org/content/10.1101/2020.08.28.272260v1)
 
 ### Peer-reviewed (first author)
+
+Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Meriesh H, Yumerefendi H, Restrepo D, Zimmerman S, Bear J, Kuhlman B, Davis IJ, Strahl BD. An optogenetic switch for the Set2 methyltransferase provides evidence for transcription-dependent and -independent dynamics of H3K36 methylation. *Genome Research*. 2020 Oct 5. [https://doi.org/10.1101/gr.264283.120](https://genome.cshlp.org/content/early/2020/10/05/gr.264283.120)
 
 **Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genetics*. 2020 Jan 21. [https://doi.org/10.1371/journal.pgen.1008537](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008537) 
 
