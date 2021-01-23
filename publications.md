@@ -15,6 +15,8 @@ Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, 
 
 ### Peer-reviewed (first author)
 
+**Keele GR**<sup>\*</sup>, Prokop JW<sup>\*</sup>, Hong H, Holl K, Littrell J, Deal AW, Kim Y, Kyle PB, Attipoe E, Johnson AC, Uhl KL, Sirpilla OL, Jahanbakhsh S, Levy S, Valdar W, Garrett MR, Solberg Woods LC. *Sept8/SEPTIN8* involvement in cellular structure and kidney damage is identified by genetic mapping and a novel human tubule hypoxic model. *Scientific Reports*. 2021 Jan 22. [https://doi.org/10.1038/s41598-021-81550-8](https://www.nature.com/articles/s41598-021-81550-8) 
+
 Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Meriesh H, Yumerefendi H, Restrepo D, Zimmerman S, Bear J, Kuhlman B, Davis IJ, Strahl BD. An optogenetic switch for the Set2 methyltransferase provides evidence for transcription-dependent and -independent dynamics of H3K36 methylation. *Genome Research*. 2020 Oct 5. [https://doi.org/10.1101/gr.264283.120](https://genome.cshlp.org/content/early/2020/10/05/gr.264283.120)
 
 **Keele GR**<sup>\*</sup>, Quach BC<sup>\*</sup>, Israel JW, Chappell GA, Lewis L, Safi A, Simon JM, Cotney P, Crawford GE, Valdar W, Rusyn I, Furey TS. Integrative QTL analysis of gene expression and chromatin accessibility identifies multi-tissue patterns of genetic regulation. *PLoS Genetics*. 2020 Jan 21. [https://doi.org/10.1371/journal.pgen.1008537](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008537) 
