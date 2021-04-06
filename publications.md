@@ -27,6 +27,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Zhang T, **Keele GR**</sup>, Churchill GA, Gygi SP, Paulo JA. Strain-specific peptide (SSP) interference reference sample: A genetically encoded quality control standard for isobaric tagging strategies. *Analytical Chemistry* 2021 Mar 18. [https://doi.org/10.1021/acs.analchem.0c05483](https://doi.org/10.1021/acs.analchem.0c05483)
+
 Hsiao K, Noble C, Pitman W, Yadav N, Kumar S, **Keele GR**, Terceros A, Kanke M, Conniff T, Cheleuitte-Nieves C, Tolwani R, Sethupathy P, Rajasethupathy P. A Thalamic Orphan Receptor Drives Variability in Short-Term Memory. *Cell*. 2020 Sep 29. [https://doi.org/10.1016/j.cell.2020.09.011](https://www.cell.com/cell/fulltext/S0092-8674(20)31152-1?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867420311521%3Fshowall%3Dtrue)
 
 Linke V, Overmyer KA, Miller IJ, Brademan DR, Hutchins PD, Trujillo EA, Reddy TR, Russell JD, Cushing EM, Schueler KL, Stapleton DS, Rabaglia ME, Keller MP, Gatti DM, **Keele GR**, Pham D, Broman KW, Churchill GA, Attie AD, Coon JJ. A large-scale genome-lipid association map guides lipid identification. *Nature Metabolism*. 2020 Sep 21. [https://doi.org/10.1038/s42255-020-00278-3](https://www.nature.com/articles/s42255-020-00278-3)
