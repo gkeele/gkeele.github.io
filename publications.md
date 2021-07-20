@@ -9,6 +9,8 @@ layout: default
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2021.07.19.452969](https://www.biorxiv.org/content/10.1101/2021.07.19.452969)
 
+**Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2020.09.18.296657](https://www.biorxiv.org/content/10.1101/2020.09.18.296657)
+
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart. *bioRxiv*. [https://doi.org/10.1101/2020.08.28.272260](https://www.biorxiv.org/content/10.1101/2020.08.28.272260)
