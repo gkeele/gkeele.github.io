@@ -7,7 +7,7 @@ layout: default
 
 ### Preprints
 
-Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *bioRxiv*. [https://www.biorxiv.org/content/10.1101/2021.07.19.452969](https://www.biorxiv.org/content/10.1101/2021.07.19.452969)
+Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *bioRxiv*. [https://doi.org/10.1101/2021.07.19.452969](https://www.biorxiv.org/content/10.1101/2021.07.19.452969)
 
 **Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2020.09.18.296657](https://www.biorxiv.org/content/10.1101/2020.09.18.296657)
 
