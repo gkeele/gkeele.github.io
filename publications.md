@@ -29,7 +29,7 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
-Cuklina J, Lee CH, Williams EG, Sajic T, Collins BC, Rodriguez Martinez M, Sharma VS, Wendt F, Goetze S, **Keele GR**, Wollscheid B, Aebersold R, Pedrioli PGA. Diagnostics and correction of batch effects in large-scale proteomics studies: a tutorial. *Molecular Systems Biology*. 2021 Aug 1. [http://doi.org/10.15252/msb.202110240](https://www.embopress.org/doi/full/10.15252/msb.202110240)
+čuklina J, Lee CH, Williams EG, Sajic T, Collins BC, Rodríguez Martínez M, Sharma VS, Wendt F, Goetze S, **Keele GR**, Wollscheid B, Aebersold R, Pedrioli PGA. Diagnostics and correction of batch effects in large-scale proteomics studies: a tutorial. *Molecular Systems Biology*. 2021 Aug 1. [http://doi.org/10.15252/msb.202110240](https://www.embopress.org/doi/full/10.15252/msb.202110240)
 
 Zhang T, **Keele GR**, Churchill GA, Gygi SP, Paulo JA. Strain-specific peptide (SSP) interference reference sample: A genetically encoded quality control standard for isobaric tagging strategies. *Analytical Chemistry* 2021 Mar 18. [https://doi.org/10.1021/acs.analchem.0c05483](https://doi.org/10.1021/acs.analchem.0c05483)
 
