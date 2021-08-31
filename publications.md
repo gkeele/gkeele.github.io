@@ -9,13 +9,13 @@ layout: default
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *bioRxiv*. [https://doi.org/10.1101/2021.07.19.452969](https://www.biorxiv.org/content/10.1101/2021.07.19.452969)
 
-**Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2020.09.18.296657](https://www.biorxiv.org/content/10.1101/2020.09.18.296657)
-
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart. *bioRxiv*. [https://doi.org/10.1101/2020.08.28.272260](https://www.biorxiv.org/content/10.1101/2020.08.28.272260)
 
 ### Peer-reviewed (first author)
+
+**Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Paulo JA, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1016/j.xgen.2021.100003](https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00003-3)
 
 **Keele GR**<sup>\*</sup>, Prokop JW<sup>\*</sup>, Hong H, Holl K, Littrell J, Deal AW, Kim Y, Kyle PB, Attipoe E, Johnson AC, Uhl KL, Sirpilla OL, Jahanbakhsh S, Levy S, Valdar W, Garrett MR, Solberg Woods LC. *Sept8/SEPTIN8* involvement in cellular structure and kidney damage is identified by genetic mapping and a novel human tubule hypoxic model. *Scientific Reports*. 2021 Jan 22. [https://doi.org/10.1038/s41598-021-81550-8](https://www.nature.com/articles/s41598-021-81550-8) 
 
