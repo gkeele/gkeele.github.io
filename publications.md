@@ -11,7 +11,7 @@ Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, 
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
-Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis reveals distinct features of aging in the mouse heart. *bioRxiv*. [https://doi.org/10.1101/2020.08.28.272260](https://www.biorxiv.org/content/10.1101/2020.08.28.272260)
+Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *bioRxiv*. [https://doi.org/10.1101/2022.04.22.489216](https://doi.org/10.1101/2022.04.22.489216)
 
 ### Peer-reviewed (first author)
 
@@ -28,6 +28,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [https://doi.org/10.1002/oby.22075](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22075)
 
 ### Peer-reviewed (middle author)
+
+Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. Published in advance 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://genome.cshlp.org/content/early/2022/03/11/gr.275672.121.long)
 
 Čuklina J, Lee CH, Williams EG, Sajic T, Collins BC, Rodríguez Martínez M, Sharma VS, Wendt F, Goetze S, **Keele GR**, Wollscheid B, Aebersold R, Pedrioli PGA. Diagnostics and correction of batch effects in large-scale proteomics studies: a tutorial. *Molecular Systems Biology*. 2021 Aug 1. [http://doi.org/10.15252/msb.202110240](https://www.embopress.org/doi/full/10.15252/msb.202110240)
 
