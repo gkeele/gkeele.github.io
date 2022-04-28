@@ -11,7 +11,11 @@ Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, 
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
+Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *bioRxiv*. [https://doi.org/10.1101/2022.04.25.488920](https://doi.org/10.1101/2022.04.25.488920)
+
 Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *bioRxiv*. [https://doi.org/10.1101/2022.04.22.489216](https://doi.org/10.1101/2022.04.22.489216)
+
+Zhang Q, Linke V, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Manson D, Kerby RL, Kemis JH, Trujillo EA, Reddy T, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti D, **Keele GR**, Pham D, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman K, Attie AD, Coon JJ, Rey FE. Systems genetics uncovers microbe-lipid-host connections in the murine gut. *bioRxiv*. [https://doi.org/10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
 
 ### Peer-reviewed (first author)
 
