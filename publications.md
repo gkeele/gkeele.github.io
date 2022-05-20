@@ -15,6 +15,8 @@ Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP,
 
 Zhang Q, Linke V, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Manson D, Kerby RL, Kemis JH, Trujillo EA, Reddy T, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti D, **Keele GR**, Pham D, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman K, Attie AD, Coon JJ, Rey FE. Systems genetics uncovers microbe-lipid-host connections in the murine gut. *bioRxiv*. [https://doi.org/10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
 
+Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, McDonald B, Sharma NK, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *bioRxiv*. [https://doi.org/10.1101/2022.03.14.484225](https://doi.org/10.1101/2022.03.14.484225)
+
 ### Peer-reviewed (first author)
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLoS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
