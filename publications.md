@@ -17,7 +17,7 @@ Zhang Q, Linke V, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Mans
 
 ### Peer-reviewed (first author)
 
-Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLOS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
+Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLoS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
 
 **Keele GR**<sup>\*</sup>, Zhang T<sup>\*</sup>, Pham DT, Vincent M, Bell TA, Hock P, Shaw GD, Paulo JA, Munger SC, de Villena FP-M, Ferris MT, Gygi SP, Churchill GA. Regulation of protein abundance in genetically diverse mouse populations. *Cell Genomics*. 2021 Aug 30. [https://doi.org/10.1016/j.xgen.2021.100003](https://www.cell.com/cell-genomics/fulltext/S2666-979X(21)00003-3)
 
@@ -32,6 +32,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [https://doi.org/10.1002/oby.22075](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22075)
 
 ### Peer-reviewed (middle author)
+
+Crouse WL, Das SK, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. 2022 April 25. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://journals.physiology.org/doi/abs/10.1152/physiolgenomics.00172.2021)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://genome.cshlp.org/content/32/5/838.long)
 
