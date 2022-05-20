@@ -9,7 +9,7 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
-**Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
+**Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. *bioRxiv* [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
 
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *bioRxiv*. [https://doi.org/10.1101/2022.04.25.488920](https://doi.org/10.1101/2022.04.25.488920)
 
