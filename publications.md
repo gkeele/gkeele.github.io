@@ -15,11 +15,11 @@ Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-ty
 
 Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *bioRxiv*. [https://doi.org/10.1101/2022.04.22.489216](https://doi.org/10.1101/2022.04.22.489216)
 
-Zhang Q, Linke V, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Manson D, Kerby RL, Kemis JH, Trujillo EA, Reddy T, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti D, **Keele GR**, Pham D, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman K, Attie AD, Coon JJ, Rey FE. Systems genetics uncovers microbe-lipid-host connections in the murine gut. *bioRxiv*. [https://doi.org/10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
+Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Manson D, Kerby RL, Kemis JH, Trujillo EA, Reddy T, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti D, **Keele GR**, Pham D, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman K, Attie AD, Coon JJ, Rey FE. Systems genetics uncovers microbe-lipid-host connections in the murine gut. *bioRxiv*. [https://doi.org/10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
 
 Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, McDonald B, Sharma NK, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *bioRxiv*. [https://doi.org/10.1101/2022.03.14.484225](https://doi.org/10.1101/2022.03.14.484225)
 
-Vincent M, Gerdes Gyuricza I, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *bioRxiv*. [https://doi.org/10.1101/2022.03.15.484471](https://doi.org/10.1101/2022.03.15.484471)
+Vincent M<sup>\*</sup>, Gerdes Gyuricza I<sup>\*</sup>, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *bioRxiv*. [https://doi.org/10.1101/2022.03.15.484471](https://doi.org/10.1101/2022.03.15.484471)
 
 ### Peer-reviewed (first author)
 
@@ -39,7 +39,7 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
-Crouse WL, Das SK, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. 2022 April 25. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://journals.physiology.org/doi/abs/10.1152/physiolgenomics.00172.2021)
+Crouse WL<sup>\*</sup>, Das SK<sup>\*</sup>, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. 2022 April 25. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://journals.physiology.org/doi/abs/10.1152/physiolgenomics.00172.2021)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://genome.cshlp.org/content/32/5/838.long)
 
@@ -55,7 +55,7 @@ Skelly DA, Czechanski A, Byers C, Aydin S, Spruce C, Olivier C, Choi K, Gatti DM
 
 Maurizio PL, Ferris MT, **Keele GR**, Miller DR, Shaw GD, Whitmore AC, West A, Morrison CR, Noll KE, Plante KS, Cockrell AS, Threadgill DW, Pardo-Manuel de Villena F, Baric RS, Heise MT, Valdar W. Bayesian diallel analysis reveals *Mx1*-dependent and *Mx1*-independent effects on response to influenza A virus in mice. *G3*. 2017 Nov 29. [https://doi.org/10.1534/g3.117.300438](https://www.g3journal.org/content/8/2/427)
 
-Mosedale M, Kim Y, Brock WJ, Roth SE, Wiltshire T, Eaddy JS, **Keele GR**, Corty RW, Xie Y, Valdar W, Watkins PB. Candidate risk factors and mechanisms for Tolvaptan-induced liver injury are identified using a Collaborative Cross approach. *Toxicological Sciences*. 2017 Apr 1. [https://doi.org/10.1093/toxsci/kfw269](https://academic.oup.com/toxsci/article/156/2/438/2938083)
+Mosedale M<sup>\*</sup>, Kim Y<sup>\*</sup>, Brock WJ, Roth SE, Wiltshire T, Eaddy JS, **Keele GR**, Corty RW, Xie Y, Valdar W, Watkins PB. Candidate risk factors and mechanisms for Tolvaptan-induced liver injury are identified using a Collaborative Cross approach. *Toxicological Sciences*. 2017 Apr 1. [https://doi.org/10.1093/toxsci/kfw269](https://academic.oup.com/toxsci/article/156/2/438/2938083)
 
 Lange EM, Ribado JV, Zuhlke KA, Johnson AM, **Keele GR**, Li J, Wang Y, Duan Q, Li G, Gao Z, Li Y, Xu J, Zheng SL, Cooney KA. Assessing the cumulative contribution of new and established common genetic risk factors to early-onset prostate cancer. *Cancer Epidemiol Biomarkers Prev*. 2016 May. [https://doi.org/10.1158/1055-9965.EPI-14-0995](https://cebp.aacrjournals.org/content/25/5/766)
 
