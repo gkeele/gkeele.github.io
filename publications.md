@@ -19,6 +19,8 @@ Zhang Q, Linke V, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Mans
 
 Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, McDonald B, Sharma NK, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *bioRxiv*. [https://doi.org/10.1101/2022.03.14.484225](https://doi.org/10.1101/2022.03.14.484225)
 
+Vincent M, Gerdes Gyuricza I, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *bioRxiv*. [https://doi.org/10.1101/2022.03.15.484471](https://doi.org/10.1101/2022.03.15.484471)
+
 ### Peer-reviewed (first author)
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLoS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
