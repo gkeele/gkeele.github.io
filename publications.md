@@ -41,7 +41,7 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 Vincent M<sup>\*</sup>, Gerdes Gyuricza I<sup>\*</sup>, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *G3*. 2022 June 15. [https://doi.org/10.1093/g3journal/jkac146](https://doi.org/10.1093/g3journal/jkac146)
 
-Crouse WL<sup>\*</sup>, Das SK<sup>\*</sup>, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. 2022 June 1. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://doi.org/10.1152/physiolgenomics.00172.2021)
+Crouse WL<sup>\*</sup>, Das SK<sup>\*</sup>, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. *Physiological Genomics*. 2022 June 1. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://doi.org/10.1152/physiolgenomics.00172.2021)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://genome.cshlp.org/content/32/5/838.long)
 
