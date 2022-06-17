@@ -21,8 +21,6 @@ Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, 
 
 Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, McDonald B, Sharma NK, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *bioRxiv*. [https://doi.org/10.1101/2022.03.14.484225](https://doi.org/10.1101/2022.03.14.484225)
 
-Vincent M<sup>\*</sup>, Gerdes Gyuricza I<sup>\*</sup>, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *bioRxiv*. [https://doi.org/10.1101/2022.03.15.484471](https://doi.org/10.1101/2022.03.15.484471)
-
 ### Peer-reviewed (first author)
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLoS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
@@ -41,7 +39,9 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
-Crouse WL<sup>\*</sup>, Das SK<sup>\*</sup>, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. 2022 April 25. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://journals.physiology.org/doi/abs/10.1152/physiolgenomics.00172.2021)
+Vincent M<sup>\*</sup>, Gerdes Gyuricza I<sup>\*</sup>, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *G3*. 2022 June 15. [https://doi.org/10.1093/g3journal/jkac146](https://doi.org/10.1093/g3journal/jkac146)
+
+Crouse WL<sup>\*</sup>, Das SK<sup>\*</sup>, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. 2022 June 1. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://doi.org/10.1152/physiolgenomics.00172.2021)
 
 Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://genome.cshlp.org/content/32/5/838.long)
 
