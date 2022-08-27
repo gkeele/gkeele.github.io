@@ -9,6 +9,8 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
+**Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population.*bioRxiv*. [https://doi.org/10.1101/2022.08.26.505416](https://doi.org/10.1101/2022.08.26.505416)
+
 **Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. *bioRxiv*. [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
 
 Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *bioRxiv*. [https://doi.org/10.1101/2022.06.03.494740 ](https://doi.org/10.1101/2022.06.03.494740)
