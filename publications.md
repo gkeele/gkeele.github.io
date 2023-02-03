@@ -9,8 +9,6 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
-**Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population.*bioRxiv*. [https://doi.org/10.1101/2022.08.26.505416](https://doi.org/10.1101/2022.08.26.505416)
-
 **Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. *bioRxiv*. [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
 
 Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *bioRxiv*. [https://doi.org/10.1101/2022.06.03.494740 ](https://doi.org/10.1101/2022.06.03.494740)
@@ -23,9 +21,9 @@ Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP,
 
 Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Manson D, Kerby RL, Kemis JH, Trujillo EA, Reddy T, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti D, **Keele GR**, Pham D, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman K, Attie AD, Coon JJ, Rey FE. Systems genetics uncovers microbe-lipid-host connections in the murine gut. *bioRxiv*. [https://doi.org/10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
 
-Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, McDonald B, Sharma NK, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *bioRxiv*. [https://doi.org/10.1101/2022.03.14.484225](https://doi.org/10.1101/2022.03.14.484225)
-
 ### Peer-reviewed (first author)
+
+**Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population. *G3*. 2023 Feb 3 [https://doi.org/10.1093/g3journal/jkad027](https://doi.org/10.1093/g3journal/jkad027)
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLoS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
 
@@ -43,13 +41,15 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, Szalanczy AM, McDonald B, Grzybowski M, Sharma NK, Geurts AM, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *Diabetes*. 2022 Oct 11. [https://doi.org/10.2337/db22-0252](https://doi.org/10.2337/db22-0252)
+
 Vincent M<sup>\*</sup>, Gerdes Gyuricza I<sup>\*</sup>, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *G3*. 2022 June 15. [https://doi.org/10.1093/g3journal/jkac146](https://doi.org/10.1093/g3journal/jkac146)
 
 Crouse WL<sup>\*</sup>, Das SK<sup>\*</sup>, Le TH, **Keele GR**, Holl K, Seshie O, Craddock L, Sharma N, Comeau M, Langefeld CD, Hawkins G, Mott R, Valdar W, Solberg Woods LC. Transcriptome-wide analyses of adipose tissue in outbred rats reveal novel genetic regulatory mechanisms relevant to obesity for humans. *Physiological Genomics*. 2022 June 1. [https://doi.org/10.1152/physiolgenomics.00172.2021](https://doi.org/10.1152/physiolgenomics.00172.2021)
 
-Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://genome.cshlp.org/content/32/5/838.long)
+Gerdes Gyuricza I, Chick JM, **Keele GR**, Deighan AG, Munger SC, Korstanje RC, Gygi SP, Churchill GA. Genome-wide transcript and protein analysis highlights the role of protein homeostasis in the aging mouse heart. *Genome Research*. 2022 March 11. [https://doi.org/10.1101/gr.275672.121](https://doi.org/10.1101/gr.275672.121)
 
-Čuklina J, Lee CH, Williams EG, Sajic T, Collins BC, Rodríguez Martínez M, Sharma VS, Wendt F, Goetze S, **Keele GR**, Wollscheid B, Aebersold R, Pedrioli PGA. Diagnostics and correction of batch effects in large-scale proteomics studies: a tutorial. *Molecular Systems Biology*. 2021 Aug 1. [http://doi.org/10.15252/msb.202110240](https://www.embopress.org/doi/full/10.15252/msb.202110240)
+Čuklina J, Lee CH, Williams EG, Sajic T, Collins BC, Rodríguez Martínez M, Sharma VS, Wendt F, Goetze S, **Keele GR**, Wollscheid B, Aebersold R, Pedrioli PGA. Diagnostics and correction of batch effects in large-scale proteomics studies: a tutorial. *Molecular Systems Biology*. 2021 Aug 1. [http://doi.org/10.15252/msb.202110240](http://doi.org/10.15252/msb.202110240)
 
 Zhang T, **Keele GR**, Churchill GA, Gygi SP, Paulo JA. Strain-specific peptide (SSP) interference reference sample: A genetically encoded quality control standard for isobaric tagging strategies. *Analytical Chemistry* 2021 Mar 18. [https://doi.org/10.1021/acs.analchem.0c05483](https://doi.org/10.1021/acs.analchem.0c05483)
 
