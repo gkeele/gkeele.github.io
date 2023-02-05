@@ -23,7 +23,7 @@ Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, 
 
 ### Peer-reviewed (first author)
 
-**Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population. *G3*. 2023 Feb 3 [https://doi.org/10.1093/g3journal/jkad027](https://doi.org/10.1093/g3journal/jkad027)
+**Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population. *G3*. 2023 Feb 3. [https://doi.org/10.1093/g3journal/jkad027](https://doi.org/10.1093/g3journal/jkad027)
 
 Crouse WL<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Gastonguay MS, Churchill GA, Valdar W. A Bayesian model selection approach to mediation analysis. *PLoS Genetics*. 2022 May 9. [https://doi.org/10.1371/journal.pgen.1010184](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1010184#sec031)
 
