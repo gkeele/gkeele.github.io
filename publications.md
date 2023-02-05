@@ -41,6 +41,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Yu Q, Liu X, Keller MP, Navarrete-Perea J, Zhang T, Fu S, Vaites L, Shuken S, Schmid E, **Keele GR**, Li J, Huttlin E, Rashan E, Simcox J, Churchill GA, Schweppe DK, Attie AD, Paulo JA, SP Gygi. Sample multiplexing-based targeted pathway proteomics with real-time analytics reveals the impact of genetic variation on protein expression. *Nature Communications*. 2023 Feb 2. [https://doi.org/10.1038/s41467-023-36269-7](https://doi.org/10.1038/s41467-023-36269-7)
+
 Le TH, Crouse WL, **Keele GR**, Holl K, Seshie O, Tschannen M, Craddock A, Das SK, Szalanczy AM, McDonald B, Grzybowski M, Sharma NK, Geurts AM, Key CC, Hawkins G, Valdar W, Mott R, Solberg Woods LC. Genetic mapping of multiple metabolic traits identifies novel genes for adiposity, lipids and insulin secretory capacity in outbred rats. *Diabetes*. 2022 Oct 11. [https://doi.org/10.2337/db22-0252](https://doi.org/10.2337/db22-0252)
 
 Vincent M<sup>\*</sup>, Gerdes Gyuricza I<sup>\*</sup>, **Keele GR**, Gatti DM, Keller MP, Broman KW, Churchill GA. QTLViewer: An interactive web tool for genetic analysis in the Collaborative Cross and Diversity Outbred mouse populations. *G3*. 2022 June 15. [https://doi.org/10.1093/g3journal/jkac146](https://doi.org/10.1093/g3journal/jkac146)
