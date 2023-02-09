@@ -19,8 +19,6 @@ Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-ty
 
 Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *bioRxiv*. [https://doi.org/10.1101/2022.04.22.489216](https://doi.org/10.1101/2022.04.22.489216)
 
-Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Polaske T, Manson D, Kerby RL, Kemis JH, Trujillo EA, Reddy T, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti D, **Keele GR**, Pham D, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman K, Attie AD, Coon JJ, Rey FE. Systems genetics uncovers microbe-lipid-host connections in the murine gut. *bioRxiv*. [https://doi.org/10.1101/2021.11.29.470403](https://doi.org/10.1101/2021.11.29.470403)
-
 ### Peer-reviewed (first author)
 
 **Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population. *G3*. 2023 Feb 3. [https://doi.org/10.1093/g3journal/jkad027](https://doi.org/10.1093/g3journal/jkad027)
@@ -40,6 +38,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [https://doi.org/10.1002/oby.22075](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22075)
 
 ### Peer-reviewed (middle author)
+
+Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Manson DE, Polaske T, Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti DM, **Keele GR**, Pham DT, Gerdt JP, Vivas EI, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman KW, Attie AD, Coon JJ, Rey FE. Genetic mapping of microbial and host traits reveals production of immunomodulatory lipids by *Akkermansia muciniphila* in the murine gut. *Nature Microbiology*. 2023 Feb 9. [https://doi.org/10.1038/s41564-023-01326-w](https://doi.org/10.1038/s41564-023-01326-w)
 
 Yu Q, Liu X, Keller MP, Navarrete-Perea J, Zhang T, Fu S, Vaites L, Shuken S, Schmid E, **Keele GR**, Li J, Huttlin E, Rashan E, Simcox J, Churchill GA, Schweppe DK, Attie AD, Paulo JA, SP Gygi. Sample multiplexing-based targeted pathway proteomics with real-time analytics reveals the impact of genetic variation on protein expression. *Nature Communications*. 2023 Feb 2. [https://doi.org/10.1038/s41467-023-36269-7](https://doi.org/10.1038/s41467-023-36269-7)
 
