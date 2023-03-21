@@ -11,8 +11,6 @@ layout: default
 
 **Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. *bioRxiv*. [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
 
-Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *bioRxiv*. [https://doi.org/10.1101/2022.06.03.494740 ](https://doi.org/10.1101/2022.06.03.494740)
-
 Gastonguay MS, **Keele GR**, Churchill GA. The Trouble with Triples: Examining the Impact of Measurement Error in Mediation Analysis. *bioRxiv*. [https://doi.org/10.1101/2022.07.07.499004 ](https://doi.org/10.1101/2022.07.07.499004 )
 
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *bioRxiv*. [https://doi.org/10.1101/2022.04.25.488920](https://doi.org/10.1101/2022.04.25.488920)
@@ -20,6 +18,8 @@ Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-ty
 Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *bioRxiv*. [https://doi.org/10.1101/2022.04.22.489216](https://doi.org/10.1101/2022.04.22.489216)
 
 ### Peer-reviewed (first author)
+
+Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *Genome Biology*. [https://doi.org/10.1186/s13059-023-02892-2](https://doi.org/10.1186/s13059-023-02892-2)
 
 **Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population. *G3*. 2023 Feb 3. [https://doi.org/10.1093/g3journal/jkad027](https://doi.org/10.1093/g3journal/jkad027)
 
