@@ -19,7 +19,7 @@ Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP,
 
 ### Peer-reviewed (first author)
 
-Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *Genome Biology*. [https://doi.org/10.1186/s13059-023-02892-2](https://doi.org/10.1186/s13059-023-02892-2)
+Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *Genome Biology*. 2023 Mar 21. [https://doi.org/10.1186/s13059-023-02892-2](https://doi.org/10.1186/s13059-023-02892-2)
 
 **Keele GR**. Which mouse multiparental population is right for your study? The Collaborative Cross inbred strains, their F1 hybrids, or the Diversity Outbred population. *G3*. 2023 Feb 3. [https://doi.org/10.1093/g3journal/jkad027](https://doi.org/10.1093/g3journal/jkad027)
 
