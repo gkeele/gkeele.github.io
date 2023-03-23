@@ -11,8 +11,6 @@ layout: default
 
 **Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. *bioRxiv*. [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
 
-Gastonguay MS, **Keele GR**, Churchill GA. The Trouble with Triples: Examining the Impact of Measurement Error in Mediation Analysis. *bioRxiv*. [https://doi.org/10.1101/2022.07.07.499004 ](https://doi.org/10.1101/2022.07.07.499004 )
-
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *bioRxiv*. [https://doi.org/10.1101/2022.04.25.488920](https://doi.org/10.1101/2022.04.25.488920)
 
 ### Peer-reviewed (first author)
@@ -38,6 +36,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 ### Peer-reviewed (middle author)
 
 Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Paulo JA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *Cell Genomics*. 2023 Mar 23. [https://doi.org/10.1016/j.xgen.2023.100283](https://doi.org/10.1016/j.xgen.2023.100283)
+
+Gastonguay MS, **Keele GR**, Churchill GA. The Trouble with Triples: Examining the Impact of Measurement Error in Mediation Analysis. *Genetics*. 2023 Mar 18. [https://doi.org/10.1093/genetics/iyad045](https://doi.org/10.1093/genetics/iyad045)
 
 Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Manson DE, Polaske T, Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti DM, **Keele GR**, Pham DT, Gerdt JP, Vivas EI, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman KW, Attie AD, Coon JJ, Rey FE. Genetic mapping of microbial and host traits reveals production of immunomodulatory lipids by *Akkermansia muciniphila* in the murine gut. *Nature Microbiology*. 2023 Feb 9. [https://doi.org/10.1038/s41564-023-01326-w](https://doi.org/10.1038/s41564-023-01326-w)
 
