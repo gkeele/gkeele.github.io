@@ -15,8 +15,6 @@ Gastonguay MS, **Keele GR**, Churchill GA. The Trouble with Triples: Examining t
 
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *bioRxiv*. [https://doi.org/10.1101/2022.04.25.488920](https://doi.org/10.1101/2022.04.25.488920)
 
-Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *bioRxiv*. [https://doi.org/10.1101/2022.04.22.489216](https://doi.org/10.1101/2022.04.22.489216)
-
 ### Peer-reviewed (first author)
 
 Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *Genome Biology*. 2023 Mar 21. [https://doi.org/10.1186/s13059-023-02892-2](https://doi.org/10.1186/s13059-023-02892-2)
@@ -38,6 +36,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [https://doi.org/10.1002/oby.22075](https://onlinelibrary.wiley.com/doi/full/10.1002/oby.22075)
 
 ### Peer-reviewed (middle author)
+
+Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Paulo JA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *Cell Genomics*. 2023 Mar 23. [https://doi.org/10.1016/j.xgen.2023.100283](https://doi.org/10.1016/j.xgen.2023.100283)
 
 Zhang Q<sup>\*</sup>, Linke V<sup>\*</sup>, Overmyer KA, Traeger LL, Kashara K, Miller IJ, Manson DE, Polaske T, Kerby RL, Kemis JH, Trujillo EA, Reddy TR, Russell JD, Schueler KL, Stapleton DS, Rabaglia ME, Seldin M, Gatti DM, **Keele GR**, Pham DT, Gerdt JP, Vivas EI, Lusis AJ, Keller MP, Churchill GA, Blackwell HE, Broman KW, Attie AD, Coon JJ, Rey FE. Genetic mapping of microbial and host traits reveals production of immunomodulatory lipids by *Akkermansia muciniphila* in the murine gut. *Nature Microbiology*. 2023 Feb 9. [https://doi.org/10.1038/s41564-023-01326-w](https://doi.org/10.1038/s41564-023-01326-w)
 
