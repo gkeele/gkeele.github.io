@@ -9,9 +9,9 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
-**Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Determination of cross-tissue and tissue-specific aging changes in murine proteomes. *bioRxiv*. [https://doi.org/10.1101/2022.05.17.492125](https://doi.org/10.1101/2022.05.17.492125)
-
 ### Peer-reviewed (first author)
+
+**Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Global and tissue-specific aging effects on murine proteomes. *Cell Reports*. 2023 July 4. [https://doi.org/10.1016/j.celrep.2023.112715](https://doi.org/10.1016/j.celrep.2023.112715)
 
 Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *Genome Biology*. 2023 Mar 21. [https://doi.org/10.1186/s13059-023-02892-2](https://doi.org/10.1186/s13059-023-02892-2)
 
