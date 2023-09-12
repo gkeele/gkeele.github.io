@@ -7,7 +7,7 @@ layout: default
 
 ### Preprints
 
-Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay A, Erickson C, Dzieciatkowska M, Key AM, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hansen K, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, D'Alessandro A. Biological and genetic determinants of red blood cell glycolysis. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://www.biorxiv.org/content/10.1101/2023.09.11.557250v1)
+Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay A, Erickson C, Dzieciatkowska M, Key AM, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hansen K, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and genetic determinants of red blood cell glycolysis. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://www.biorxiv.org/content/10.1101/2023.09.11.557250v1)
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://www.biorxiv.org/content/10.1101/489682)
 
