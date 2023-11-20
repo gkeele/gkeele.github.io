@@ -7,7 +7,7 @@ layout: default
 
 ### Preprints
 
-O'Connor C, **Keele GR**, Martin W, Stodola T, Gatti D, Hoffman BR, Konstanje R, Churchill GA, Reinholdt LG. Cell morphology QTL reveal gene by environment interactions in a genetically diverse cell population. *bioRxiv*. [: https://doi.org/10.1101/2023.11.18.567597](: https://doi.org/10.1101/2023.11.18.567597)
+O'Connor C, **Keele GR**, Martin W, Stodola T, Gatti D, Hoffman BR, Konstanje R, Churchill GA, Reinholdt LG. Cell morphology QTL reveal gene by environment interactions in a genetically diverse cell population. *bioRxiv*. [https://doi.org/10.1101/2023.11.18.567597](https://doi.org/10.1101/2023.11.18.567597)
 
 Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay A, Erickson C, Dzieciatkowska M, Key AM, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hansen K, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and genetic determinants of red blood cell glycolysis. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
 
