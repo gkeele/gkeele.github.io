@@ -37,6 +37,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Nemkov T, Key A, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Amireault P, Casimir MD, Dzieciatkowska M, Reisz JA, Deng X, Stone M, Kleinman SH, Spitalnik SL, Hansen KC, Norris PJ, Churchill GA, Busch MP, Roubinian NH, Page GP, Zimring JC, Arduini A, A D’Alessandro. Genetic regulation of carnitine metabolism controls lipid damage repair and RBC hemolysis in vivo and in vitro. *Blood*. 2024. [https://doi.org/10.1182/blood.2024023983](https://doi.org/10.1182/blood.2024023983)
+
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *Genome Biology*. 2023 May 30. [https://doi.org/10.1186/s13059-023-02959-0](https://doi.org/10.1186/s13059-023-02959-0)
 
 Aydin S, Pham DT, Zhang T, **Keele GR**, Skelly DA, Paulo JA, Pankratz M, Choi T, Gygi SP, Reinholdt LG, Baker CL, Churchill GA, Munger SC. Genetic dissection of the pluripotent proteome through multi-omics data integration. *Cell Genomics*. 2023 Mar 23. [https://doi.org/10.1016/j.xgen.2023.100283](https://doi.org/10.1016/j.xgen.2023.100283)
