@@ -7,7 +7,7 @@ layout: default
 
 ### Preprints
 
-Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay A, Erickson C, Dzieciatkowska M, Key AM, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hansen K, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and genetic determinants of red blood cell glycolysis. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
+Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay A, Key A, Haiman Z, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and Genetic Determinants of Glycolysis: Phosphofructokinase Isoforms Boost Energy Status of Stored Red Blood Cells and Transfusion Outcomes. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
@@ -37,7 +37,7 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 O'Connor C, **Keele GR**, Martin W, Stodola T, Gatti D, Hoffman BR, Konstanje R, Churchill GA, Reinholdt LG. Unraveling the genetics of arsenic toxicity with cellular morphology QTL. *PLoS Genetics*. 2024 Apr 25. [https://doi.org/10.1371/journal.pgen.1011248](https://doi.org/10.1371/journal.pgen.1011248)
 
-Nemkov T, Key A, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Amireault P, Casimir MD, Dzieciatkowska M, Reisz JA, Deng X, Stone M, Kleinman SH, Spitalnik SL, Hansen KC, Norris PJ, Churchill GA, Busch MP, Roubinian NH, Page GP, Zimring JC, Arduini A, A D’Alessandro. Genetic regulation of carnitine metabolism controls lipid damage repair and RBC hemolysis in vivo and in vitro. *Blood*. 2024 Mar 21. [https://doi.org/10.1182/blood.2024023983](https://doi.org/10.1182/blood.2024023983)
+Nemkov T, Key A, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Amireault P, Casimir MD, Dzieciatkowska M, Reisz JA, Deng X, Stone M, Kleinman SH, Spitalnik SL, Hansen KC, Norris PJ, Churchill GA, Busch MP, Roubinian NH, Page GP, Zimring JC, Arduini A, D’Alessandro A. Genetic regulation of carnitine metabolism controls lipid damage repair and RBC hemolysis in vivo and in vitro. *Blood*. 2024 Mar 21. [https://doi.org/10.1182/blood.2024023983](https://doi.org/10.1182/blood.2024023983)
 
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *Genome Biology*. 2023 May 30. [https://doi.org/10.1186/s13059-023-02959-0](https://doi.org/10.1186/s13059-023-02959-0)
 
