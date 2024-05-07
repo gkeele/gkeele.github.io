@@ -7,7 +7,7 @@ layout: default
 
 ### Preprints
 
-Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay A, Key A, Haiman Z, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and Genetic Determinants of Glycolysis: Phosphofructokinase Isoforms Boost Energy Status of Stored Red Blood Cells and Transfusion Outcomes. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
+Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Key A, Haiman Z, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and Genetic Determinants of Glycolysis: Phosphofructokinase Isoforms Boost Energy Status of Stored Red Blood Cells and Transfusion Outcomes. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
