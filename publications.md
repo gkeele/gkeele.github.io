@@ -7,6 +7,8 @@ layout: default
 
 ### Preprints
 
+D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley EJ, Stephenson D, Vincent M, Deng X, Stone M, Dzieciatkowska M, Hansen KC, Kleinman S, Spitalnik SL, Roubinian N, Norris PJ, Busch MP, Page GP, Stockwell BR, Churchill GA, Zimring JC. Ferroptosis regulates hemolysis in stored murine and human red blood cells. *bioRxiv*. [https://doi.org/10.1101/2024.06.11.598512](https://doi.org/10.1101/2024.06.11.598512)
+
 Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Key A, Haiman Z, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and Genetic Determinants of Glycolysis: Phosphofructokinase Isoforms Boost Energy Status of Stored Red Blood Cells and Transfusion Outcomes. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
