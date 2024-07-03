@@ -9,8 +9,6 @@ layout: default
 
 D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley EJ, Stephenson D, Vincent M, Deng X, Stone M, Dzieciatkowska M, Hansen KC, Kleinman S, Spitalnik SL, Roubinian N, Norris PJ, Busch MP, Page GP, Stockwell BR, Churchill GA, Zimring JC. Ferroptosis regulates hemolysis in stored murine and human red blood cells. *bioRxiv*. [https://doi.org/10.1101/2024.06.11.598512](https://doi.org/10.1101/2024.06.11.598512)
 
-Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Key A, Haiman Z, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and Genetic Determinants of Glycolysis: Phosphofructokinase Isoforms Boost Energy Status of Stored Red Blood Cells and Transfusion Outcomes. *bioRxiv*. [https://doi.org/10.1101/2023.09.11.557250](https://doi.org/10.1101/2023.09.11.557250)
-
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
 ### Peer-reviewed (first author)
@@ -36,6 +34,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [https://doi.org/10.1002/oby.22075](https://doi.org/10.1002/oby.22075)
 
 ### Peer-reviewed (middle author)
+
+Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Key A, Haiman ZB, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and genetic determinants of glycolysis: Phosphofructokinase isoforms boost energy status of stored red blood cells and transfusion outcomes. *Cell Metabolism*. 2024 July 3. [https://doi.org/10.1016/j.cmet.2024.06.007](https://doi.org/10.1016/j.cmet.2024.06.007)
 
 O'Connor C, **Keele GR**, Martin W, Stodola T, Gatti D, Hoffman BR, Konstanje R, Churchill GA, Reinholdt LG. Unraveling the genetics of arsenic toxicity with cellular morphology QTL. *PLoS Genetics*. 2024 Apr 25. [https://doi.org/10.1371/journal.pgen.1011248](https://doi.org/10.1371/journal.pgen.1011248)
 
