@@ -13,6 +13,8 @@ D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley
 
 ### Peer-reviewed (first author)
 
+**Keele GR**, Hay AM, Holness NK, Jash A, Ewald SE, O'Connor C, Vincent M, Dzieciatkowska M, D'Alessandro A, Churchill GA, Zimring JC. Co-transfection of murine NXPE2 and murine glycophorin A confers reactivity with Ter-119. *Haematologica*. 2024 Jul 18. [https://doi.org/10.3324/haematol.2024.285168](https://doi.org/10.3324/haematol.2024.285168)
+
 **Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Global and tissue-specific aging effects on murine proteomes. *Cell Reports*. 2023 July 4. [https://doi.org/10.1016/j.celrep.2023.112715](https://doi.org/10.1016/j.celrep.2023.112715)
 
 Zhang T<sup>\*</sup>, **Keele GR**<sup>\*</sup>,Gerdes Gyuricza I, Vincent M, Brunton C, Bell TA, Hock P, Shaw GD, Munger SC, de Villena FP-M, Ferris MT, Paulo JA, Gygi SP, Churchill GA. Multi-omics analysis identifies drivers of protein phosphorylation. *Genome Biology*. 2023 Mar 21. [https://doi.org/10.1186/s13059-023-02892-2](https://doi.org/10.1186/s13059-023-02892-2)
