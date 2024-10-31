@@ -37,6 +37,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Reisz JA, Earley EJ, Nemkov T, Key A, Stephenson D, **Keele GR**, Dzieciatkowska M, Spitalnik SL, Hod EA, Kleinman S, Roubinian NH, Gladwin MT, Hansen KC, Norris PJ, Busch MP, Zimring JC, Churchill GA, Page GP, D'Alessandro A. Arginine metabolism is a biomarker of red blood cell and human aging. *Aging Cell*. 2024 Oct 30.[https://doi.org/10.1111/acel.14388](https://doi.org/10.1111/acel.14388)
+
 Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Key A, Haiman ZB, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and genetic determinants of glycolysis: Phosphofructokinase isoforms boost energy status of stored red blood cells and transfusion outcomes. *Cell Metabolism*. 2024 July 3. [https://doi.org/10.1016/j.cmet.2024.06.007](https://doi.org/10.1016/j.cmet.2024.06.007)
 
 O'Connor C, **Keele GR**, Martin W, Stodola T, Gatti D, Hoffman BR, Konstanje R, Churchill GA, Reinholdt LG. Unraveling the genetics of arsenic toxicity with cellular morphology QTL. *PLoS Genetics*. 2024 Apr 25. [https://doi.org/10.1371/journal.pgen.1011248](https://doi.org/10.1371/journal.pgen.1011248)
