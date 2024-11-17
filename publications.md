@@ -7,13 +7,13 @@ layout: default
 
 ### Preprints
 
-D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley EJ, Stephenson D, Vincent M, Deng X, Stone M, Dzieciatkowska M, Hansen KC, Kleinman S, Spitalnik SL, Roubinian N, Norris PJ, Busch MP, Page GP, Stockwell BR, Churchill GA, Zimring JC. Ferroptosis regulates hemolysis in stored murine and human red blood cells. *bioRxiv*. [https://doi.org/10.1101/2024.06.11.598512](https://doi.org/10.1101/2024.06.11.598512)
-
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
 ### Peer-reviewed (first author)
 
-**Keele GR**, Hay AM, Holness NK, Jash A, Ewald SE, O'Connor C, Vincent M, Dzieciatkowska M, D'Alessandro A, Churchill GA, Zimring JC. Co-transfection of murine NXPE2 and murine glycophorin A confers reactivity with Ter-119. *Haematologica*. 2024 Jul 18. [https://doi.org/10.3324/haematol.2024.285168](https://doi.org/10.3324/haematol.2024.285168)
+D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley EJ, Stephenson D, Vincent M, Deng X, Stone M, Dzieciatkowska M, Hansen KC, Kleinman S, Spitalnik SL, Roubinian NH, Norris PJ, Busch MP, Page GP, Stockwell BR, Churchill GA, Zimring JC. Ferroptosis regulates hemolysis in stored murine and human red blood cells. *Blood*. 2024 Nov 14. [https://doi.org/10.1182/blood.2024026109](https://doi.org/10.1182/blood.2024026109)
+
+**Keele GR**, Hay AM, Holness NK, Jash A, Ewald SE, O'Connor C, Vincent M, Dzieciatkowska M, D'Alessandro A, Churchill GA, Zimring JC. Co-transfection of murine NXPE2 and murine glycophorin A confers reactivity with Ter-119. *Haematologica*. 2024 Nov. [https://doi.org/10.3324/haematol.2024.285168](https://doi.org/10.3324/haematol.2024.285168)
 
 **Keele GR**, Zhang J, Szpyt J, Korstanje R, Gygi SP, Churchill GA, Schweppe DK. Global and tissue-specific aging effects on murine proteomes. *Cell Reports*. 2023 July 4. [https://doi.org/10.1016/j.celrep.2023.112715](https://doi.org/10.1016/j.celrep.2023.112715)
 
