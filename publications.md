@@ -7,6 +7,8 @@ layout: default
 
 ### Preprints
 
+**Keele GR**sup>\*</sup>, Dou Y, Kodikara SP, Jeffery ED, Bai D, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via Orbitrap Astral mass spectrometry and tandem mass tag (TMT) integration. *bioRxiv*. [https://doi.org/10.1101/2024.12.13.628374](https://doi.org/10.1101/2024.12.13.628374)
+
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
 ### Peer-reviewed (first author)
