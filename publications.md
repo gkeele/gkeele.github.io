@@ -39,13 +39,15 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Key AM, Earley EJ, Tzounakas VL, Anastasiadi AT, Nemkov T, Stephenson D, Dzieciatkowska M, Reisz JA, **Keele GR**, Deng X, Stone M, Kleinman S, Hansen KC, Norris PJ, Busch MP, Roubinian NH, Page GP, D'Alessandro A. Red blood cell irate levels are linked to hemolysis in vitro and post-transfusion as a function of donor sex, population, and genetic polymorphisms in SLC2A9 and ABCG2. *Transfusion* 2025 Jan 19. [https://doi.org/10.1111/trf.18140](https://doi.org/10.1111/trf.18140)
+
 Reisz JA, Earley EJ, Nemkov T, Key A, Stephenson D, **Keele GR**, Dzieciatkowska M, Spitalnik SL, Hod EA, Kleinman S, Roubinian NH, Gladwin MT, Hansen KC, Norris PJ, Busch MP, Zimring JC, Churchill GA, Page GP, D'Alessandro A. Arginine metabolism is a biomarker of red blood cell and human aging. *Aging Cell*. 2024 Oct 30.[https://doi.org/10.1111/acel.14388](https://doi.org/10.1111/acel.14388)
 
 Nemkov T, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Key A, Haiman ZB, Erickson C, Dzieciatkowska M, Reisz JA, Moore A, Stone M, Deng X, Kleinman S, Spitalnik SL, Hod EA, Hudson KE, Hansen KC, Palsson BO, Churchill GA, Roubinian N, Norris PJ, Busch MP, Zimring JC, Page GP, D'Alessandro A. Biological and genetic determinants of glycolysis: Phosphofructokinase isoforms boost energy status of stored red blood cells and transfusion outcomes. *Cell Metabolism*. 2024 July 3. [https://doi.org/10.1016/j.cmet.2024.06.007](https://doi.org/10.1016/j.cmet.2024.06.007)
 
 O'Connor C, **Keele GR**, Martin W, Stodola T, Gatti D, Hoffman BR, Konstanje R, Churchill GA, Reinholdt LG. Unraveling the genetics of arsenic toxicity with cellular morphology QTL. *PLoS Genetics*. 2024 Apr 25. [https://doi.org/10.1371/journal.pgen.1011248](https://doi.org/10.1371/journal.pgen.1011248)
 
-Nemkov T, Key A, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Amireault P, Casimir MD, Dzieciatkowska M, Reisz JA, Deng X, Stone M, Kleinman SH, Spitalnik SL, Hansen KC, Norris PJ, Churchill GA, Busch MP, Roubinian NH, Page GP, Zimring JC, Arduini A, D’Alessandro A. Genetic regulation of carnitine metabolism controls lipid damage repair and RBC hemolysis in vivo and in vitro. *Blood*. 2024 Mar 21. [https://doi.org/10.1182/blood.2024023983](https://doi.org/10.1182/blood.2024023983)
+Nemkov T, Key AM, Stephenson D, Earley EJ, **Keele GR**, Hay AM, Amireault P, Casimir MD, Dzieciatkowska M, Reisz JA, Deng X, Stone M, Kleinman SH, Spitalnik SL, Hansen KC, Norris PJ, Churchill GA, Busch MP, Roubinian NH, Page GP, Zimring JC, Arduini A, D’Alessandro A. Genetic regulation of carnitine metabolism controls lipid damage repair and RBC hemolysis in vivo and in vitro. *Blood*. 2024 Mar 21. [https://doi.org/10.1182/blood.2024023983](https://doi.org/10.1182/blood.2024023983)
 
 Aygün N, Liang D, Crouse WL, **Keele GR**, Love MI, Stein JL. Inferring cell-type-specific causal gene regulatory networks during human neurogenesis. *Genome Biology*. 2023 May 30. [https://doi.org/10.1186/s13059-023-02959-0](https://doi.org/10.1186/s13059-023-02959-0)
 
