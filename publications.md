@@ -39,7 +39,7 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
-Key AM, Earley EJ, Tzounakas VL, Anastasiadi AT, Nemkov T, Stephenson D, Dzieciatkowska M, Reisz JA, **Keele GR**, Deng X, Stone M, Kleinman S, Hansen KC, Norris PJ, Busch MP, Roubinian NH, Page GP, D'Alessandro A. Red blood cell irate levels are linked to hemolysis in vitro and post-transfusion as a function of donor sex, population, and genetic polymorphisms in SLC2A9 and ABCG2. *Transfusion* 2025 Jan 19. [https://doi.org/10.1111/trf.18140](https://doi.org/10.1111/trf.18140)
+Key AM, Earley EJ, Tzounakas VL, Anastasiadi AT, Nemkov T, Stephenson D, Dzieciatkowska M, Reisz JA, **Keele GR**, Deng X, Stone M, Kleinman S, Hansen KC, Norris PJ, Busch MP, Roubinian NH, Page GP, D'Alessandro A. Red blood cell irate levels are linked to hemolysis in vitro and post-transfusion as a function of donor sex, population, and genetic polymorphisms in SLC2A9 and ABCG2. *Transfusion*. 2025 Jan 19. [https://doi.org/10.1111/trf.18140](https://doi.org/10.1111/trf.18140)
 
 Reisz JA, Earley EJ, Nemkov T, Key A, Stephenson D, **Keele GR**, Dzieciatkowska M, Spitalnik SL, Hod EA, Kleinman S, Roubinian NH, Gladwin MT, Hansen KC, Norris PJ, Busch MP, Zimring JC, Churchill GA, Page GP, D'Alessandro A. Arginine metabolism is a biomarker of red blood cell and human aging. *Aging Cell*. 2024 Oct 30.[https://doi.org/10.1111/acel.14388](https://doi.org/10.1111/acel.14388)
 
