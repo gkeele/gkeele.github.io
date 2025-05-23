@@ -9,11 +9,11 @@ layout: default
 
 **Keele GR**, Dzieciatkowska M, Hay AM, Vincent M, O'Connor C, Stephenson D, Reisz JA, Nemkov T, Hansen K, Page GP, Zimring JC, Churchill GA, D'Alessandro A. Genetic architecture of the red blood cell proteome in genetically diverse mice reveals central role of hemoglobin beta cysteine redox status in maintaining circulating glutathione pools. *bioRxiv*. [https://doi.org/10.1101/2025.02.27.640676](https://doi.org/10.1101/2025.02.27.640676)
 
-**Keele GR**<sup>\*</sup>, Dou Y<sup>\*</sup>, Kodikara SP, Jeffery ED, Bai D, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via Orbitrap Astral mass spectrometry and tandem mass tag (TMT) integration. *bioRxiv*. [https://doi.org/10.1101/2024.12.13.628374](https://doi.org/10.1101/2024.12.13.628374)
-
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
 ### Peer-reviewed (first author)
+
+**Keele GR**<sup>\*</sup>, Dou Y<sup>\*</sup>, Kodikara SP, Jeffery ED, Bai DL, Hultenius E, Gao Z, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration. *Nature Communications*. [https://doi.org/10.1038/s41467-025-60022-x](https://doi.org/10.1038/s41467-025-60022-x)
 
 D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley EJ, Stephenson D, Vincent M, Deng X, Stone M, Dzieciatkowska M, Hansen KC, Kleinman S, Spitalnik SL, Roubinian NH, Norris PJ, Busch MP, Page GP, Stockwell BR, Churchill GA, Zimring JC. Ferroptosis regulates hemolysis in stored murine and human red blood cells. *Blood*. 2024 Nov 14. [https://doi.org/10.1182/blood.2024026109](https://doi.org/10.1182/blood.2024026109)
 
