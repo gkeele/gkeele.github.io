@@ -13,7 +13,7 @@ layout: default
 
 ### Peer-reviewed (first author)
 
-**Keele GR**<sup>\*</sup>, Dou Y<sup>\*</sup>, Kodikara SP, Jeffery ED, Bai DL, Hultenius E, Gao Z, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration. *Nature Communications*. [https://doi.org/10.1038/s41467-025-60022-x](https://doi.org/10.1038/s41467-025-60022-x)
+**Keele GR**<sup>\*</sup>, Dou Y<sup>\*</sup>, Kodikara SP, Jeffery ED, Bai DL, Hultenius E, Gao Z, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration. *Nature Communications*. 2025 May 22. [https://doi.org/10.1038/s41467-025-60022-x](https://doi.org/10.1038/s41467-025-60022-x)
 
 D'Alessandro A<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Nemkov T, Earley EJ, Stephenson D, Vincent M, Deng X, Stone M, Dzieciatkowska M, Hansen KC, Kleinman S, Spitalnik SL, Roubinian NH, Norris PJ, Busch MP, Page GP, Stockwell BR, Churchill GA, Zimring JC. Ferroptosis regulates hemolysis in stored murine and human red blood cells. *Blood*. 2024 Nov 14. [https://doi.org/10.1182/blood.2024026109](https://doi.org/10.1182/blood.2024026109)
 
