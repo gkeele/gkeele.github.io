@@ -11,6 +11,8 @@ layout: default
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
+Dou Y, Qiu D, Li V, Wierzbińska ME, **Keele GR**, Liu W, Paulo JA, Qi L, Zhang T. Integral synthesis and clearance analysis via DIA (ISDia) reveals coordinated protein dynamics regulation during endoplasmic reticulum stress. *bioRxiv*. [https://doi.org/10.1101/2025.07.23.666381](https://doi.org/10.1101/2025.07.23.666381)
+
 ### Peer-reviewed (first author)
 
 **Keele GR**<sup>\*</sup>, Dou Y<sup>\*</sup>, Kodikara SP, Jeffery ED, Bai DL, Hultenius E, Gao Z, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration. *Nature Communications*. 2025 May 22. [https://doi.org/10.1038/s41467-025-60022-x](https://doi.org/10.1038/s41467-025-60022-x)
