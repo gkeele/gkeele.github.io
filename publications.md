@@ -43,6 +43,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Stephenson D, **Keele GR**, Hay AM, Dzieciatkowska M, Reisz JA, Haiman ZB, Moore AL, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Churchill GA, Stockwell BR, Roubinian N, Zimring JC, Page GP, D'Alessandro A. GPX4 regulates lipid per oxidation and ferroptosis of stored red blood cells. *Blood RCI* 2025 Aug 11. [https://doi.org/10.1016/j.brci.2025.100020](https://doi.org/10.1016/j.brci.2025.100020)
+
 Key AM, Earley EJ, Tzounakas VL, Anastasiadi AT, Nemkov T, Stephenson D, Dzieciatkowska M, Reisz JA, **Keele GR**, Deng X, Stone M, Kleinman S, Hansen KC, Norris PJ, Busch MP, Roubinian NH, Page GP, D'Alessandro A. Red blood cell irate levels are linked to hemolysis in vitro and post-transfusion as a function of donor sex, population, and genetic polymorphisms in SLC2A9 and ABCG2. *Transfusion*. 2025 Jan 19. [https://doi.org/10.1111/trf.18140](https://doi.org/10.1111/trf.18140)
 
 Reisz JA, Earley EJ, Nemkov T, Key A, Stephenson D, **Keele GR**, Dzieciatkowska M, Spitalnik SL, Hod EA, Kleinman S, Roubinian NH, Gladwin MT, Hansen KC, Norris PJ, Busch MP, Zimring JC, Churchill GA, Page GP, D'Alessandro A. Arginine metabolism is a biomarker of red blood cell and human aging. *Aging Cell*. 2024 Oct 30.[https://doi.org/10.1111/acel.14388](https://doi.org/10.1111/acel.14388)
