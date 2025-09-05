@@ -43,7 +43,9 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
-Stephenson D, **Keele GR**, Hay AM, Dzieciatkowska M, Reisz JA, Haiman ZB, Moore AL, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Churchill GA, Stockwell BR, Roubinian N, Zimring JC, Page GP, D'Alessandro A. GPX4 regulates lipid per oxidation and ferroptosis of stored red blood cells. *Blood RCI* 2025 Aug 11. [https://doi.org/10.1016/j.brci.2025.100020](https://doi.org/10.1016/j.brci.2025.100020)
+Dzieciatkowska M, Hay A, Issaian A, **Keele GR**, Bevers S, Nemkov T, Reisz JA, Maslanka M, Stephenson D, Moore AL, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Page GP, Roubinian N, Xia Y, Zimring JC, D'Alessandro A. Caffeine impairs red blood cell storage quality by dual inhibition of ADORA2b signaling and G6PD activity. *Haematologica*. 2025 Sep 4. [https://doi.org/10.3324/haematol.2025.288332](https://doi.org/10.3324/haematol.2025.288332)
+
+Stephenson D, **Keele GR**, Hay AM, Dzieciatkowska M, Reisz JA, Haiman ZB, Moore AL, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Churchill GA, Stockwell BR, Roubinian N, Zimring JC, Page GP, D'Alessandro A. GPX4 regulates lipid per oxidation and ferroptosis of stored red blood cells. *Blood RCI*. 2025 Aug 11. [https://doi.org/10.1016/j.brci.2025.100020](https://doi.org/10.1016/j.brci.2025.100020)
 
 Key AM, Earley EJ, Tzounakas VL, Anastasiadi AT, Nemkov T, Stephenson D, Dzieciatkowska M, Reisz JA, **Keele GR**, Deng X, Stone M, Kleinman S, Hansen KC, Norris PJ, Busch MP, Roubinian NH, Page GP, D'Alessandro A. Red blood cell irate levels are linked to hemolysis in vitro and post-transfusion as a function of donor sex, population, and genetic polymorphisms in SLC2A9 and ABCG2. *Transfusion*. 2025 Jan 19. [https://doi.org/10.1111/trf.18140](https://doi.org/10.1111/trf.18140)
 
