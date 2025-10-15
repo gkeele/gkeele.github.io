@@ -7,6 +7,8 @@ layout: default
 
 ### Preprints
 
+**Keele GR**, Moor MB. Genetic dissection of tissue composition in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2025.10.13.682042](https://doi.org/10.1101/2025.10.13.682042)
+
 **Keele GR**, Dzieciatkowska M, Hay AM, Vincent M, O'Connor C, Stephenson D, Reisz JA, Nemkov T, Hansen K, Page GP, Zimring JC, Churchill GA, D'Alessandro A. Genetic architecture of the red blood cell proteome in genetically diverse mice reveals central role of hemoglobin beta cysteine redox status in maintaining circulating glutathione pools. *bioRxiv*. [https://doi.org/10.1101/2025.02.27.640676](https://doi.org/10.1101/2025.02.27.640676)
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
