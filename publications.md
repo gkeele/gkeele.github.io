@@ -51,6 +51,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 ### Peer-reviewed (middle author)
 
+Zimring JC, Hay AM, Dzieciatkowska M, Stephenson D, Haiman ZB, Kleinman S, Norris PJ, Busch MP, Roubinian N, Fermo E, Bianchi P, **Keele GR**, Page GP, D'Alessandro A. Hypomorphic *ATP11c* is a novel regulator of decreased efficacy of transfused red blood cells in humans and mice. *Hemasphere*. 2026 Jan 9. [https://doi.org/10.1002/hem3.70288](https://doi.org/10.1002/hem3.70288)
+
 Dzieciatkowska M, Hay A, Issaian A, **Keele GR**, Bevers S, Nemkov T, Reisz JA, Maslanka M, Stephenson D, Moore AL, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Page GP, Roubinian N, Xia Y, Zimring JC, D'Alessandro A. Caffeine impairs red blood cell storage quality by dual inhibition of ADORA2b signaling and G6PD activity. *Haematologica*. 2025 Sep 4. [https://doi.org/10.3324/haematol.2025.288332](https://doi.org/10.3324/haematol.2025.288332)
 
 Key AM, Earley EJ, Tzounakas VL, Anastasiadi AT, Nemkov T, Stephenson D, Dzieciatkowska M, Reisz JA, **Keele GR**, Deng X, Stone M, Kleinman S, Hansen KC, Norris PJ, Busch MP, Roubinian NH, Page GP, D'Alessandro A. Red blood cell irate levels are linked to hemolysis in vitro and post-transfusion as a function of donor sex, population, and genetic polymorphisms in SLC2A9 and ABCG2. *Transfusion*. 2025 Jan 19. [https://doi.org/10.1111/trf.18140](https://doi.org/10.1111/trf.18140)
