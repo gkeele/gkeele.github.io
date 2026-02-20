@@ -23,7 +23,7 @@ Dou Y, Qiu D, Li V, Wierzbińska ME, **Keele GR**, Liu W, Paulo JA, Qi L, Zhang 
 
 **Keele GR**, Dzieciatkowska M, Hay AM, Vincent M, O'Connor C, Stephenson D, Reisz JA, Nemkov T, Hansen KC, Page GP, Zimring JC, Churchill GA, D'Alessandro A. Genetic architecture of the murine red blood cell proteome reveals central role of hemoglobin beta cysteine 93 in maintaining redox balance. *Cell Genomics*. 2025 Nov 19. [https://doi.org/10.1016/j.xgen.2025.101069](https://doi.org/10.1016/j.xgen.2025.101069)
 
-Stephenson D<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Dzieciatkowska M, Reisz JA, Haiman ZB, Moore AL, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Churchill GA, Stockwell BR, Roubinian N, Zimring JC, Page GP, D'Alessandro A. GPX4 regulates lipid per oxidation and ferroptosis of stored red blood cells. *Blood RCI*. 2025 Aug 11. [https://doi.org/10.1016/j.brci.2025.100020](https://doi.org/10.1016/j.brci.2025.100020)
+Stephenson D<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Dzieciatkowska M, Reisz JA, Haiman ZB, Moore AL, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Churchill GA, Stockwell BR, Roubinian N, Zimring JC, Page GP, D'Alessandro A. GPX4 regulates lipid per oxidation and ferroptosis of stored red blood cells. *Blood RCI*. 2025 Dec. [https://doi.org/10.1016/j.brci.2025.100020](https://doi.org/10.1016/j.brci.2025.100020)
 
 **Keele GR**<sup>\*</sup>, Dou Y<sup>\*</sup>, Kodikara SP, Jeffery ED, Bai DL, Hultenius E, Gao Z, Paulo JA, Gygi SP, Tian X, Zhang T. Expanding the landscape of aging via orbitrap astral mass spectrometry and tandem mass tag integration. *Nature Communications*. 2025 May 22. [https://doi.org/10.1038/s41467-025-60022-x](https://doi.org/10.1038/s41467-025-60022-x)
 
