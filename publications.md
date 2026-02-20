@@ -19,6 +19,8 @@ Dou Y, Qiu D, Li V, Wierzbińska ME, **Keele GR**, Liu W, Paulo JA, Qi L, Zhang 
 
 ### Peer-reviewed (first author)
 
+**Keele GR**<sup>\*</sup>, Enger M<sup>\*</sup>, Barnette Q, Ruiz-Esparza R, Mathur R, Stratford JK, Giamberardino SN, Brown LM, Webb BT, Ulmer Carnes M. Systematic examination of gene expression and proteomic evidence across tissues supports the role of mitochondrial dysregulation in ME/CFS. *IJMS*. 2026 Feb 19. [https://doi.org/10.3390/ijms27041997](https://doi.org/10.3390/ijms27041997)
+
 **Keele GR**, Dzieciatkowska M, Hay AM, Vincent M, O'Connor C, Stephenson D, Reisz JA, Nemkov T, Hansen KC, Page GP, Zimring JC, Churchill GA, D'Alessandro A. Genetic architecture of the murine red blood cell proteome reveals central role of hemoglobin beta cysteine 93 in maintaining redox balance. *Cell Genomics*. 2025 Nov 19. [https://doi.org/10.1016/j.xgen.2025.101069](https://doi.org/10.1016/j.xgen.2025.101069)
 
 Stephenson D<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Hay AM, Dzieciatkowska M, Reisz JA, Haiman ZB, Moore AL, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Churchill GA, Stockwell BR, Roubinian N, Zimring JC, Page GP, D'Alessandro A. GPX4 regulates lipid per oxidation and ferroptosis of stored red blood cells. *Blood RCI*. 2025 Aug 11. [https://doi.org/10.1016/j.brci.2025.100020](https://doi.org/10.1016/j.brci.2025.100020)
