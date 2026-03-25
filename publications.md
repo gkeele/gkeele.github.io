@@ -55,6 +55,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 
 **Keele GR**, Prokop JW, He H, Holl K, Littrell J, Deal A, Francic S, Cui L, Gatti DM, Broman KW, Tschannen M, Shirng-Wern T, Zagloul M, Kim Y, Baur B, Fox J, Robinson M, Levy S, Flister MJ, Mott R, Valdar W, Solberg Woods LC. Genetic fine-mapping and identification of candidate genes and variants for adiposity traits in outbred rats. *Obesity*. 2017 Nov 28. [https://doi.org/10.1002/oby.22075](https://doi.org/10.1002/oby.22075)
 
+___
+
 ### Peer-reviewed (middle author)
 
 Zimring JC, Hay AM, Dzieciatkowska M, Stephenson D, Haiman ZB, Kleinman S, Norris PJ, Busch MP, Roubinian N, Fermo E, Bianchi P, **Keele GR**, Page GP, D'Alessandro A. Hypomorphic *ATP11c* is a novel regulator of decreased efficacy of transfused red blood cells in humans and mice. *Hemasphere*. 2026 Jan 9. [https://doi.org/10.1002/hem3.70288](https://doi.org/10.1002/hem3.70288)
