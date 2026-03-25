@@ -19,6 +19,8 @@ Karafin MS, Issaian AV, Bevers S, Reisz JA, Hay A, **Keele GR**, Dzieciatkowska 
 
 Dou Y, Qiu D, Li V, Wierzbińska ME, **Keele GR**, Liu W, Paulo JA, Qi L, Zhang T. Integral synthesis and clearance analysis via DIA (ISDia) reveals coordinated protein dynamics regulation during endoplasmic reticulum stress. *bioRxiv*. [https://doi.org/10.1101/2025.07.23.666381](https://doi.org/10.1101/2025.07.23.666381)
 
+___
+
 ### Peer-reviewed (first author)
 
 **Keele GR**<sup>\*</sup>, Enger M<sup>\*</sup>, Barnette Q, Ruiz-Esparza R, Mathur R, Stratford JK, Giamberardino SN, Brown LM, Webb BT, Ulmer Carnes M. Systematic examination of gene expression and proteomic evidence across tissues supports the role of mitochondrial dysregulation in ME/CFS. *IJMS*. 2026 Feb 19. [https://doi.org/10.3390/ijms27041997](https://doi.org/10.3390/ijms27041997)
