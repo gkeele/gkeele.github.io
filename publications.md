@@ -61,6 +61,8 @@ ___
 
 ### Peer-reviewed (middle author)
 
+Dzieciatkowska M, Stephenson D, Hay A, Wang X, **Keele GR**, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Page GP, Spitalnik SL, Roubinian N, Zimring JC, Thein S-L, D'Alessandro A. Lower efficacy of transfusion of red blood cells from donors with sickle cell trait. *Hemasphere*. 2026 Apr 14. [https://doi.org/10.1002/hem3.70360](https://doi.org/10.1002/hem3.70360)
+
 Zimring JC, Hay AM, Dzieciatkowska M, Stephenson D, Haiman ZB, Kleinman S, Norris PJ, Busch MP, Roubinian N, Fermo E, Bianchi P, **Keele GR**, Page GP, D'Alessandro A. Hypomorphic *ATP11c* is a novel regulator of decreased efficacy of transfused red blood cells in humans and mice. *Hemasphere*. 2026 Jan 9. [https://doi.org/10.1002/hem3.70288](https://doi.org/10.1002/hem3.70288)
 
 Dzieciatkowska M, Hay A, Issaian A, **Keele GR**, Bevers S, Nemkov T, Reisz JA, Maslanka M, Stephenson D, Moore AL, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Page GP, Roubinian N, Xia Y, Zimring JC, D'Alessandro A. Caffeine impairs red blood cell storage quality by dual inhibition of ADORA2b signaling and G6PD activity. *Haematologica*. 2025 Sep 4. [https://doi.org/10.3324/haematol.2025.288332](https://doi.org/10.3324/haematol.2025.288332)
