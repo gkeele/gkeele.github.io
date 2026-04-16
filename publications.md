@@ -61,6 +61,8 @@ ___
 
 ### Peer-reviewed (middle author)
 
+Bevers S, Issaian AV, Hay A, **Keele GR**, Dzieciatkowska M, Reisz JA, Haiman ZB, Nemkov T, Stephenson D, Moore AL, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Palsson BO, Roubinian NH, Janetzko J, Vӧgeli B, Page GP, Jones DN, Henen MA, Eisenmesser EZ, Zimring JC, D'Alessandro A. Improved red blood cell storage quality of blood from donors carrying the hypermorphic PIMT I120 variant. *Hemasphere*. 2026 Apr 16. [https://doi.org/10.1002/hem3.70361](https://doi.org/10.1002/hem3.70361)
+
 Dzieciatkowska M, Stephenson D, Hay A, Wang X, **Keele GR**, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Page GP, Spitalnik SL, Roubinian N, Zimring JC, Thein S-L, D'Alessandro A. Lower efficacy of transfusion of red blood cells from donors with sickle cell trait. *Hemasphere*. 2026 Apr 14. [https://doi.org/10.1002/hem3.70360](https://doi.org/10.1002/hem3.70360)
 
 Zimring JC, Hay AM, Dzieciatkowska M, Stephenson D, Haiman ZB, Kleinman S, Norris PJ, Busch MP, Roubinian N, Fermo E, Bianchi P, **Keele GR**, Page GP, D'Alessandro A. Hypomorphic *ATP11c* is a novel regulator of decreased efficacy of transfused red blood cells in humans and mice. *Hemasphere*. 2026 Jan 9. [https://doi.org/10.1002/hem3.70288](https://doi.org/10.1002/hem3.70288)
