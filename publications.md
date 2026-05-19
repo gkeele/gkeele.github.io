@@ -61,6 +61,8 @@ ___
 
 ### Peer-reviewed (middle author)
 
+Wang Y, Hennessy C, Dobrinskikh E, Humphries SM, Hatakka K, Ackert-Bicknell CL, Godfrey DA, Kelada SNP, **Keele GR**, Cardwell J, Peljto A, Clouthier DE, Yang IV, Schwartz DA. Genes, other than *Muc5b*, are associated with bleomycin-induced lung injury. *Communications Biology*. 2026 May 12. [https://doi.org/10.1038/s42003-026-10239-3](https://doi.org/10.1038/s42003-026-10239-3)
+
 Bevers S, Issaian AV, Hay A, **Keele GR**, Dzieciatkowska M, Reisz JA, Haiman ZB, Nemkov T, Stephenson D, Moore AL, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Palsson BO, Roubinian NH, Janetzko J, Vӧgeli B, Page GP, Jones DN, Henen MA, Eisenmesser EZ, Zimring JC, D'Alessandro A. Improved red blood cell storage quality of blood from donors carrying the hypermorphic PIMT I120 variant. *Hemasphere*. 2026 Apr 16. [https://doi.org/10.1002/hem3.70361](https://doi.org/10.1002/hem3.70361)
 
 Dzieciatkowska M, Stephenson D, Hay A, Wang X, **Keele GR**, Nemkov T, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Page GP, Spitalnik SL, Roubinian N, Zimring JC, Thein S-L, D'Alessandro A. Lower efficacy of transfusion of red blood cells from donors with sickle cell trait. *Hemasphere*. 2026 Apr 14. [https://doi.org/10.1002/hem3.70360](https://doi.org/10.1002/hem3.70360)
