@@ -15,8 +15,6 @@ ___
 
 Dzieciatkowska M, Issaian AV, **Keele GR**, Saviola A, Stephenson D, Bevers S, Reisz JA, Haiman ZB, Nemkov T, Fang F, Moore AL, Deng X, Stone M, Kleinman S, Norris PJ, Wang X, Thein S, Hod EA, Busch MP, Roubinian NH, Page GP, Hansen KC, D'Alessandro A. A population-scale Red Blood Cell proteome atlas of 13,000 donors uncovers genetically encoded aging clocks predicting hemolysis, transfusion efficacy, and donor activity a decade later. *bioRxiv*. [https://doi.org/10.64898/2026.03.07.710284](https://doi.org/10.64898/2026.03.07.710284)
 
-Issaian AV, Dzieciatkowska M, Bevers S, Zohreh S, Hay A, Saviola A, Redzic JS, Reisz JA, **Keele GR**, Cendali FI, Haiman ZB, Nemkov T, Stephenson D, Lisk C, Vallese F, Palsson BO, King SB, Page GP, Doctor A, Hudson KE, Hansen KC, Irwin DC, Mohandas N, Zimring JC, Eisenmesser EZ, D'Alessandro A. Deep red blood cell proteome defines the Band 3 N-terminus interactome as a regulator of hypoxic adaptation via BLVRB-dependent S-nitroso transfer. *bioRxiv*. [https://doi.org/10.1101/2025.11.29.691178](https://doi.org/10.1101/2025.11.29.691178)
-
 Karafin MS, Issaian AV, Bevers S, Reisz JA, Hay A, **Keele GR**, Dzieciatkowska M, Cendali FI, Haiman ZB, Key AM, Nemkov T, Stephenson D, Marsh E, Moore AL, Palha MS, Legenzov EA, Lamb DR, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Vallese F, Palsson BO, Spitalnik SL, Kao JPY, Roubinian NH, Janetzko J, Page GP, Eisenmesser EZ, Zimring JC, Buehler PW, D'Alessandro A. Genetic variation of human G6PD impacts red blood cell transfusion efficacy. *bioRxiv*. [https://doi.org/10.1101/2025.11.21.689741](https://doi.org/10.1101/2025.11.21.689741)
 
 Dou Y, Qiu D, Li V, Wierzbińska ME, **Keele GR**, Liu W, Paulo JA, Qi L, Zhang T. Integral synthesis and clearance analysis via DIA (ISDia) reveals coordinated protein dynamics regulation during endoplasmic reticulum stress. *bioRxiv*. [https://doi.org/10.1101/2025.07.23.666381](https://doi.org/10.1101/2025.07.23.666381)
@@ -60,6 +58,8 @@ Lerner AM<sup>\*</sup>, Hepperla AJ<sup>\*</sup>, **Keele GR**<sup>\*</sup>, Mer
 ___
 
 ### Peer-reviewed (middle author)
+
+Issaian AV, Dzieciatkowska M, Bevers S, Zohreh S, Hay AM, Cendali FI, Argabright A, Rogers SC, Saviola AJ, Redzic JS, Wartchow E, Haines JR, **Keele GR**, Haiman ZB, Nemkov T, Stephenson D, Lisk C, Vallese F, Palsson BO, King SB, Page GP, Doctor A, Hudson KE, Hansen KC, Irwin DC, Mohandas N, Zimring JC, Eisenmesser EZ, D'Alessandro A. The red blood cell proteome and interactome identify a Band 3-BLVRB axis regulating hypoxic metabolic adaptation. *Blood*. 2026 June 1. [https://doi.org/10.1182/blood.2025032915](https://doi.org/10.1182/blood.2025032915)
 
 Wang Y, Hennessy C, Dobrinskikh E, Humphries SM, Hatakka K, Ackert-Bicknell CL, Godfrey DA, Kelada SNP, **Keele GR**, Cardwell J, Peljto A, Clouthier DE, Yang IV, Schwartz DA. Genes, other than *Muc5b*, are associated with bleomycin-induced lung injury. *Communications Biology*. 2026 May 12. [https://doi.org/10.1038/s42003-026-10239-3](https://doi.org/10.1038/s42003-026-10239-3)
 
