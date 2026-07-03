@@ -9,7 +9,7 @@ ___
 
 ### Preprints
 
-**Keele GR**, Nemkov T, Hay AM, Vincent M, O'Connor C, Stephenson D, Page GP, Zimring JC, Churchill GA, D'Alessandro A. *bioRxiv*. [https://doi.org/10.64898/2026.06.22.733914](https://doi.org/10.64898/2026.06.22.733914)
+**Keele GR**, Nemkov T, Hay AM, Vincent M, O'Connor C, Stephenson D, Page GP, Zimring JC, Churchill GA, D'Alessandro A. Genetic architecture of the murine serum metabolome reveals carboxyl esterases as master regulators of circulating fatty acid metabolism. *bioRxiv*. [https://doi.org/10.64898/2026.06.22.733914](https://doi.org/10.64898/2026.06.22.733914)
 
 **Keele GR**, Moor MB. Genetic dissection of tissue composition in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2025.10.13.682042](https://doi.org/10.1101/2025.10.13.682042)
 
