@@ -9,6 +9,8 @@ ___
 
 ### Preprints
 
+**Keele GR**, Nemkov T, Hay AM, Vincent M, O'Connor C, Stephenson D, Page GP, Zimring JC, Churchill GA, D'Alessandro A. *bioRxiv*. [https://doi.org/10.64898/2026.06.22.733914](https://doi.org/10.64898/2026.06.22.733914)
+
 **Keele GR**, Moor MB. Genetic dissection of tissue composition in genetically diverse mouse populations. *bioRxiv*. [https://doi.org/10.1101/2025.10.13.682042](https://doi.org/10.1101/2025.10.13.682042)
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
