@@ -15,6 +15,8 @@ ___
 
 **Keele GR**, Maurizio PL, Oreper D, Valdar W. Bayesian decision theoretic design of two-founder experimental crosses given diallel data. *bioRxiv*. [https://doi.org/10.1101/489682](https://doi.org/10.1101/489682)
 
+Tsantilas KA, Riffle M, Merrihew GE, Wu CC, **Keele GR**, Maurais A, Johnson RS, Luciano A, Robinson L, Churchill GA, MacCoss MJ. Circulating extracellular vesicles in plasma carry accessible molecular signatures of aging in mice. *bioRxiv*. [https://doi.org/10.64898/2026.07.10.737625](https://doi.org/10.64898/2026.07.10.737625)
+
 Dzieciatkowska M, Issaian AV, **Keele GR**, Saviola A, Stephenson D, Bevers S, Reisz JA, Haiman ZB, Nemkov T, Fang F, Moore AL, Deng X, Stone M, Kleinman S, Norris PJ, Wang X, Thein S, Hod EA, Busch MP, Roubinian NH, Page GP, Hansen KC, D'Alessandro A. A population-scale Red Blood Cell proteome atlas of 13,000 donors uncovers genetically encoded aging clocks predicting hemolysis, transfusion efficacy, and donor activity a decade later. *bioRxiv*. [https://doi.org/10.64898/2026.03.07.710284](https://doi.org/10.64898/2026.03.07.710284)
 
 Karafin MS, Issaian AV, Bevers S, Reisz JA, Hay A, **Keele GR**, Dzieciatkowska M, Cendali FI, Haiman ZB, Key AM, Nemkov T, Stephenson D, Marsh E, Moore AL, Palha MS, Legenzov EA, Lamb DR, Deng X, Stone M, Hansen KC, Kleinman S, Norris PJ, Busch MP, Vallese F, Palsson BO, Spitalnik SL, Kao JPY, Roubinian NH, Janetzko J, Page GP, Eisenmesser EZ, Zimring JC, Buehler PW, D'Alessandro A. Genetic variation of human G6PD impacts red blood cell transfusion efficacy. *bioRxiv*. [https://doi.org/10.1101/2025.11.21.689741](https://doi.org/10.1101/2025.11.21.689741)
