@@ -63,6 +63,8 @@ ___
 
 ### Peer-reviewed (middle author)
 
+Stephenson D, **Keele GR**, Reisz JA, Nemkov T, Argabright A, Stone M, Kleinman S, Busch MP, Norris PJ, Page GP, D'Alessandro A. Selenium-associated BHMT2 and DMGDH loci connect one-carbon metabolism, selenoprotein biology, and red blood cell fragility. *Blood RCI*. 2026 Sep 7. [https://doi.org/10.1016/j.brci.2026.100132](https://doi.org/10.1016/j.brci.2026.100132)
+
 Issaian AV, Dzieciatkowska M, Bevers S, Zohreh S, Hay AM, Cendali FI, Argabright A, Rogers SC, Saviola AJ, Redzic JS, Wartchow E, Haines JR, **Keele GR**, Haiman ZB, Nemkov T, Stephenson D, Lisk C, Vallese F, Palsson BO, King SB, Page GP, Doctor A, Hudson KE, Hansen KC, Irwin DC, Mohandas N, Zimring JC, Eisenmesser EZ, D'Alessandro A. The red blood cell proteome and interactome identify a Band 3-BLVRB axis regulating hypoxic metabolic adaptation. *Blood*. 2026 June 1. [https://doi.org/10.1182/blood.2025032915](https://doi.org/10.1182/blood.2025032915)
 
 Wang Y, Hennessy C, Dobrinskikh E, Humphries SM, Hatakka K, Ackert-Bicknell CL, Godfrey DA, Kelada SNP, **Keele GR**, Cardwell J, Peljto A, Clouthier DE, Yang IV, Schwartz DA. Genes, other than *Muc5b*, are associated with bleomycin-induced lung injury. *Communications Biology*. 2026 May 12. [https://doi.org/10.1038/s42003-026-10239-3](https://doi.org/10.1038/s42003-026-10239-3)
