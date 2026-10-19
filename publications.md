@@ -65,6 +65,8 @@ ___
 
 Stephenson D, Nemkov T, Stone M, Kleinman S, **Keele GR**, Paige GP, Norris PJ, Busch MP, D'Alessandro A. Donor age is the major determinant of low-level blood lead burden in the REDS recalled donor cohort. *Transfusion*. 2026 Oct 11. [https://doi.org/10.1111/trf.70427](https://doi.org/10.1111/trf.70427)
 
+Dzieciatkowska M, Stephenson D, Nemkov T, Marques de Menzes EG, Stone M, **Keele GR**, Page GP, Kleinman S, Busch MP, Norris PJ, D'Alessandro A. Multi-omics signatures of hemolysis and vesiculation in stored red blood cells. *Blood RCI*. 2026 Oct 6. [https://doi.org/10.1016/j.brci.2026.100142](https://doi.org/10.1016/j.brci.2026.100142) 
+
 Stephenson D, **Keele GR**, Reisz JA, Nemkov T, Argabright A, Stone M, Kleinman S, Busch MP, Norris PJ, Page GP, D'Alessandro A. Selenium-associated BHMT2 and DMGDH loci connect one-carbon metabolism, selenoprotein biology, and red blood cell fragility. *Blood RCI*. 2026 Sep 7. [https://doi.org/10.1016/j.brci.2026.100132](https://doi.org/10.1016/j.brci.2026.100132)
 
 Issaian AV, Dzieciatkowska M, Bevers S, Zohreh S, Hay AM, Cendali FI, Argabright A, Rogers SC, Saviola AJ, Redzic JS, Wartchow E, Haines JR, **Keele GR**, Haiman ZB, Nemkov T, Stephenson D, Lisk C, Vallese F, Palsson BO, King SB, Page GP, Doctor A, Hudson KE, Hansen KC, Irwin DC, Mohandas N, Zimring JC, Eisenmesser EZ, D'Alessandro A. The red blood cell proteome and interactome identify a Band 3-BLVRB axis regulating hypoxic metabolic adaptation. *Blood*. 2026 June 1. [https://doi.org/10.1182/blood.2025032915](https://doi.org/10.1182/blood.2025032915)
