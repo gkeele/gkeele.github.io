@@ -63,6 +63,8 @@ ___
 
 ### Peer-reviewed (middle author)
 
+Haiman ZB, Anastasiadi AT, Delaporta P, Stephenson D, Dzieciatkowska M, Nemkov T, Page GP, Chouliara V, Glentis S, Adam A-S, **Keele GR**, Deng X, Busch MP, Norris PJ, Kattamis A, Tzounakas VL, D’Alessandro A. Integrated Multi-Omic Characterization of Hexokinase-1 Deficiency in Red Blood Cells Reveals Altered Redox Homeostasis, Membrane Remodeling, and Features of Incomplete Erythroid Maturation. *American Journal of Hematology*. 2026 Oct 26. [https://doi.org/10.1002/ajh.70538](https://doi.org/10.1002/ajh.70538) 
+
 Stephenson D, Nemkov T, Stone M, Kleinman S, **Keele GR**, Paige GP, Norris PJ, Busch MP, D'Alessandro A. Donor age is the major determinant of low-level blood lead burden in the REDS recalled donor cohort. *Transfusion*. 2026 Oct 11. [https://doi.org/10.1111/trf.70427](https://doi.org/10.1111/trf.70427)
 
 Dzieciatkowska M, Stephenson D, Nemkov T, Marques de Menzes EG, Stone M, **Keele GR**, Page GP, Kleinman S, Busch MP, Norris PJ, D'Alessandro A. Multi-omics signatures of hemolysis and vesiculation in stored red blood cells. *Blood RCI*. 2026 Oct 6. [https://doi.org/10.1016/j.brci.2026.100142](https://doi.org/10.1016/j.brci.2026.100142) 
